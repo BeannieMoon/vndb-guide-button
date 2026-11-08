@@ -67,7 +67,7 @@
  ],
  "v8203": [
   [
-   "アルカナ・ファミリア -La storia della Arcana Famiglia- Ancora",
+   "アルカナ・ファミリア -La storia della Arcana Famiglia-　Ancora",
    "blog-entry-1287.html"
   ]
  ],
@@ -85,7 +85,7 @@
  ],
  "v20117": [
   [
-   "Un：BIRTHDAY SONG～愛を唄う死神～",
+   "Un:BIRTHDAY SONG～愛を唄う死神～another record",
    "blog-entry-2362.html"
   ]
  ],
@@ -191,7 +191,7 @@
  ],
  "v16295": [
   [
-   "SA7 -SILENT ABILITY SEVEN-",
+   "SA7 SILENT ABILITY SEVEN",
    "blog-entry-1548.html"
   ]
  ],
@@ -227,7 +227,7 @@
  ],
  "v19140": [
   [
-   "逢魔が刻～かくりよの縁",
+   "逢魔が刻～かくりよの縁～",
    "blog-entry-1657.html"
   ]
  ],
@@ -275,7 +275,7 @@
  ],
  "v13090": [
   [
-   "学園K -Wonderful School Days-",
+   "学園K Wonderful School Days V Edition",
    "e/gakuen-k-guide"
   ]
  ],
@@ -369,7 +369,7 @@
  ],
  "v1015": [
   [
-   "金色のコルダ２ ff",
+   "金色のコルダ2 ff",
    "e/corda2ff-guide"
   ]
  ],
@@ -419,13 +419,13 @@
  ],
  "v16464": [
   [
-   "クローバー図書館の住人たちⅡ",
+   "クローバー図書館の住人たち2",
    "blog-entry-958.html"
   ]
  ],
  "v6723": [
   [
-   "CLOCK ZERO ～終焉の一秒～ Devote",
+   "CLOCK ZERO ～終焉の一秒～",
    "e/clock_zero-guide"
   ]
  ],
@@ -547,13 +547,13 @@
  ],
  "v14908": [
   [
-   "Code:Realize ～創世の姫君～",
+   "Code:Realize",
    "blog-entry-701.html"
   ]
  ],
  "v21521": [
   [
-   "Code：Realize ～白銀の奇跡～",
+   "Code：Realize 白銀の奇跡",
    "e/code-realize-fd2-guide"
   ]
  ],
@@ -667,7 +667,7 @@
    "e/nin-koi-guide"
   ],
   [
-   "忍び、恋うつつ ― 雪月花恋絵巻 ―",
+   "忍び、恋うつつ 雪月花恋絵巻",
    "e/nin-koi-setsu-guide"
   ]
  ],
@@ -713,7 +713,7 @@
  ],
  "v34021": [
   [
-   "新宿羅生門 ―Rashomon of Shinjuku―",
+   "新宿羅生門",
    "e/rashomon-guide"
   ]
  ],
@@ -1031,7 +1031,7 @@
  ],
  "v45894": [
   [
-   "DesperaDrops（デスペラドロップス）",
+   "DesperaDrops",
    "e/desperadrops-guide"
   ]
  ],
@@ -1115,7 +1115,7 @@
  ],
  "v47011": [
   [
-   "トラブル・マギア ～訳アリ少女は未来を勝ち取るために異国の魔法学校へ留学します～",
+   "トラブル・マギア",
    "e/trouble-magia-guide"
   ]
  ],
@@ -1129,9 +1129,11 @@
   [
    "9 R.I.P.",
    "e/9rip-guide"
-  ],
+  ]
+ ],
+ "v52276": [
   [
-   "9 R.I.P. (2)",
+   "9 R.I.P. sequel",
    "e/9rips-guide"
   ]
  ],
@@ -1155,7 +1157,7 @@
  ],
  "v14787": [
   [
-   "Binary Star",
+   "Binary Star バイナリースター",
    "e/binarystar-guide"
   ]
  ],
@@ -1197,7 +1199,7 @@
  ],
  "v28803": [
   [
-   "Paradigm Paradox",
+   "パラダイム パラドックス (Paradigm Paradox)",
    "e/paradigm-paradox-guide"
   ]
  ],
@@ -1227,7 +1229,7 @@
  ],
  "v21782": [
   [
-   "ピオフィオーレの晩鐘",
+   "ピオフィオーレの晩鐘 -ricordo-",
    "e/piofiore-guide"
   ]
  ],
@@ -1311,13 +1313,13 @@
  ],
  "v7557": [
   [
-   "BROTHERS CONFLICT Precious Baby",
+   "BROTHERS CONFLICT　Precious Baby",
    "blog-entry-2965.html"
   ]
  ],
  "v59981": [
   [
-   "崩壊世界のナヴィガトーレ",
+   "崩壊世界のナヴィガトーレ 全エンド",
    "e/houkaisekai-guide-all"
   ]
  ],
@@ -1401,7 +1403,7 @@
  ],
  "v22986": [
   [
-   "LoverPretend",
+   "LoverPretend（ラバープリテンド）",
    "e/loverpretend"
   ]
  ],
@@ -1497,7 +1499,7 @@
  ],
  "v29251": [
   [
-   "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 波乱を呼ぶ海賊",
+   "はめふら 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 波乱を呼ぶ海賊",
    "e/hamehura-kaizoku-guide"
   ]
  ],
@@ -1535,7 +1537,7 @@
    "blog-entry-2777.html"
   ],
   [
-   "片恋いコントラスト way of parting 第二巻",
+   "片恋いコントラスト ―way of parting― 第二巻",
    "e/contrast2-guide"
   ],
   [
@@ -1563,13 +1565,13 @@
  ],
  "v10419": [
   [
-   "Glass Heart Princess",
+   "Glass Heart Princess(グラスハートプリンセス)",
    "e/ghp-guide"
   ]
  ],
  "v12571": [
   [
-   "Glass Heart Princess PLATINUM",
+   "Glass Heart Princess PLATINUM(グラスハートプリンセス プラチナム)",
    "e/ghp-fd-guide"
   ]
  ],
@@ -1587,7 +1589,7 @@
  ],
  "v11469": [
   [
-   "月影の鎖 ～錯乱パラノイア～",
+   "月影の鎖　～錯乱パラノイア～",
    "e/getsuei-guide"
   ]
  ],
@@ -1623,7 +1625,7 @@
  ],
  "v21783": [
   [
-   "サンドリヨンパリカ",
+   "Cendrillon palikA",
    "e/cendrillon_palika-guide"
   ]
  ],
@@ -1645,27 +1647,27 @@
    "e/lyla-guide"
   ],
   [
-   "蛇香のライラ ～Allure of MUSK～ 第一夜 ヨーロピアン・ナイト",
+   "蛇香のライラ ～Allure of MUSK～　第一夜　ヨーロピアン・ナイト",
    "e/lyla1-guide"
   ],
   [
-   "蛇香のライラ ～Allure of MUSK～ 第二夜 アジアン・ナイト",
+   "蛇香のライラ 第二夜 アジアン・ナイト",
    "e/lyla2-guide"
   ],
   [
-   "蛇香のライラ ～Allure of MUSK～ 第三夜 アラビアン・ナイト",
+   "蛇香のライラ ～Allure of MUSK～　第三夜　アラビアン・ナイト",
    "e/lyla3-guide"
   ]
  ],
  "v21787": [
   [
-   "CharadeManiacs(シャレードマニアクス)",
+   "CharadeManiacs（シャレードマニアクス）",
    "blog-entry-2604.html"
   ]
  ],
  "v21785": [
   [
-   "私立ベルばら学園",
+   "私立ベルばら学園～ベルサイユのばらRe*imagination～",
    "e/berubara-gakuen-guide"
   ]
  ],

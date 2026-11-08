@@ -4,6 +4,7 @@
 "titles": [
 "I DOLL U（アイドールユー）"
 ],
+"page_title": "I DOLL U（アイドールユー）",
 "match": [
 [
 0.5714285714285714,
@@ -27,6 +28,7 @@
 "titles": [
 "赤い砂堕ちる月"
 ],
+"page_title": "赤い砂堕ちる月",
 "match": [
 [
 1.0,
@@ -40,6 +42,7 @@
 "titles": [
 "悪役令嬢は隣国の王太子に溺愛される"
 ],
+"page_title": "悪役令嬢は隣国の王太子に溺愛される",
 "match": [
 [
 1.0,
@@ -53,6 +56,7 @@
 "titles": [
 "アブナイ恋の捜査室"
 ],
+"page_title": "アブナイ恋の捜査室",
 "match": [
 [
 1.0,
@@ -71,6 +75,7 @@
 "titles": [
 "アブナイ恋の捜査室～Eternal Happiness～"
 ],
+"page_title": "アブナイ恋の捜査室～Eternal Happiness～",
 "match": [
 [
 1.0,
@@ -84,6 +89,7 @@
 "titles": [
 "AMNESIA for Nintendo Switch"
 ],
+"page_title": "AMNESIA for Nintendo Switch",
 "match": [
 [
 1.0,
@@ -107,6 +113,7 @@
 "titles": [
 "AMNESIA LATER×CROWD for Nintendo Switch"
 ],
+"page_title": "AMNESIA LATER×CROWD for Nintendo Switch",
 "match": [
 [
 0.8275862068965517,
@@ -131,6 +138,7 @@
 "AMNESIA World",
 "AMNESIA World for Nintendo Switch"
 ],
+"page_title": "AMNESIA World",
 "match": [
 [
 1.0,
@@ -144,6 +152,7 @@
 "titles": [
 "あやかしごはん～おかわりっ！～"
 ],
+"page_title": "あやかしごはん～おかわりっ！～",
 "match": [
 [
 1.0,
@@ -157,6 +166,7 @@
 "titles": [
 "アラビアンズ・ダウト"
 ],
+"page_title": "アラビアンズ・ダウト",
 "match": [
 [
 0.46153846153846156,
@@ -170,6 +180,7 @@
 "titles": [
 "ALICE=ALICE"
 ],
+"page_title": "ALICE=ALICE",
 "match": [
 [
 1.0,
@@ -188,6 +199,7 @@
 "titles": [
 "アルカナ・ファミリア -La storia della Arcana Famiglia- Ancora"
 ],
+"page_title": "アルカナ・ファミリア -La storia della Arcana Famiglia-　Ancora",
 "match": [
 [
 0.5,
@@ -211,6 +223,7 @@
 "titles": [
 "アルカナ・ファミリア2"
 ],
+"page_title": "アルカナ・ファミリア2",
 "match": [
 [
 1.0,
@@ -224,6 +237,7 @@
 "titles": [
 "アンジェリーク ルトゥール"
 ],
+"page_title": "アンジェリーク ルトゥール",
 "match": [
 [
 1.0,
@@ -238,9 +252,10 @@
 "Un:BIRTHDAY SONG～愛を唄う死神～another record",
 "Un：BIRTHDAY SONG～愛を唄う死神～"
 ],
+"page_title": "Un:BIRTHDAY SONG～愛を唄う死神～another record",
 "match": [
 [
-1.0,
+0.7547169811320755,
 "v20117",
 "Un:BIRTHDAY SONG ～愛を唄う死神～"
 ]
@@ -251,6 +266,7 @@
 "titles": [
 "UN:LOGICAL"
 ],
+"page_title": "UN:LOGICAL",
 "match": [
 [
 1.0,
@@ -264,6 +280,7 @@
 "titles": [
 "いざ、出陣！恋戦 第二幕 ～越後編～"
 ],
+"page_title": "いざ、出陣！恋戦 第二幕 ～越後編～",
 "match": [
 [
 0.8571428571428571,
@@ -277,6 +294,7 @@
 "titles": [
 "いざ、出陣！恋戦 第二幕 ～越後編～"
 ],
+"page_title": "いざ、出陣！恋戦 第二幕 ～甲斐編～",
 "match": [
 [
 0.8571428571428571,
@@ -290,6 +308,7 @@
 "titles": [
 "いっしょにごはん。PORTABLE"
 ],
+"page_title": "いっしょにごはん。PORTABLE",
 "match": [
 [
 1.0,
@@ -303,6 +322,7 @@
 "titles": [
 "ヴァルプルガの詩"
 ],
+"page_title": "ヴァルプルガの詩",
 "match": [
 [
 1.0,
@@ -316,6 +336,7 @@
 "titles": [
 "Vamwolf Cross†"
 ],
+"page_title": "Vamwolf Cross†",
 "match": [
 [
 1.0,
@@ -329,6 +350,7 @@
 "titles": [
 "嘘月シャングリラ"
 ],
+"page_title": "嘘月シャングリラ",
 "match": [
 [
 1.0,
@@ -342,6 +364,7 @@
 "titles": [
 "泡沫のユークロニア"
 ],
+"page_title": "泡沫のユークロニア",
 "match": [
 [
 1.0,
@@ -360,6 +383,7 @@
 "titles": [
 "泡沫のユークロニア -trail-"
 ],
+"page_title": "泡沫のユークロニア -trail-",
 "match": [
 [
 1.0,
@@ -374,6 +398,7 @@
 "うたの☆プリンスさまっ♪Repeat LOVE",
 "うたの☆プリンスさまっ♪Repeat LOVE for Nintendo Switch"
 ],
+"page_title": "うたの☆プリンスさまっ♪Repeat LOVE",
 "match": [
 [
 0.6666666666666666,
@@ -388,6 +413,7 @@
 "うたの☆プリンスさまっ♪Amazing Aria ＆ Sweet Serenade LOVE",
 "うたの☆プリンスさまっ♪Amazing Aria＆Sweet Serenade LOVE for Nintendo Switch"
 ],
+"page_title": "うたの☆プリンスさまっ♪Amazing Aria ＆ Sweet Serenade LOVE",
 "match": [
 [
 0.7540983606557377,
@@ -406,6 +432,7 @@
 "titles": [
 "うたの☆プリンスさまっ♪Debut for Nintendo Switch"
 ],
+"page_title": "うたの☆プリンスさまっ♪Debut for Nintendo Switch",
 "match": [
 [
 1.0,
@@ -419,6 +446,7 @@
 "titles": [
 "うたの☆プリンスさまっ♪All Star After Secret"
 ],
+"page_title": "うたの☆プリンスさまっ♪All Star After Secret",
 "match": [
 [
 1.0,
@@ -432,6 +460,7 @@
 "titles": [
 "空蝉の廻"
 ],
+"page_title": "空蝉の廻",
 "match": [
 [
 1.0,
@@ -445,6 +474,7 @@
 "titles": [
 "裏語 薄桜鬼～暁の調べ～"
 ],
+"page_title": "裏語 薄桜鬼～暁の調べ～",
 "match": [
 [
 1.0,
@@ -458,6 +488,7 @@
 "titles": [
 "英国探偵ミステリア The Crown"
 ],
+"page_title": "英国探偵ミステリア The Crown",
 "match": [
 [
 0.6923076923076923,
@@ -471,6 +502,7 @@
 "titles": [
 "SA7 -SILENT ABILITY SEVEN-"
 ],
+"page_title": "SA7 SILENT ABILITY SEVEN",
 "match": [
 [
 0.25,
@@ -484,6 +516,7 @@
 "titles": [
 "S.Y.K ～新説西遊記～ ポータブル"
 ],
+"page_title": "S.Y.K ～新説西遊記～ ポータブル",
 "match": [
 [
 1.0,
@@ -497,6 +530,7 @@
 "titles": [
 "エフェメラル FANTASY ON DARK"
 ],
+"page_title": "エフェメラル FANTASY ON DARK",
 "match": [
 [
 0.6341463414634146,
@@ -510,6 +544,7 @@
 "titles": [
 "円環のメモーリア カケラ灯し"
 ],
+"page_title": "円環のメモーリア カケラ灯し",
 "match": [
 [
 0.7368421052631579,
@@ -523,6 +558,7 @@
 "titles": [
 "Enkeltbillet(エンケルトビレット)"
 ],
+"page_title": "Enkeltbillet(エンケルトビレット)",
 "match": [
 [
 1.0,
@@ -536,6 +572,7 @@
 "titles": [
 "逢魔時～怪談ロマンス～"
 ],
+"page_title": "逢魔時～怪談ロマンス～",
 "match": [
 [
 1.0,
@@ -549,6 +586,7 @@
 "titles": [
 "逢魔が刻～かくりよの縁"
 ],
+"page_title": "逢魔が刻～かくりよの縁～",
 "match": [
 [
 1.0,
@@ -562,6 +600,7 @@
 "titles": [
 "OVER REQUIEMZ"
 ],
+"page_title": "OVER REQUIEMZ",
 "match": [
 [
 1.0,
@@ -575,6 +614,7 @@
 "titles": [
 "おそ松さん THE GAME はちゃめちゃ就職アドバイス デッド オア ワーク"
 ],
+"page_title": "おそ松さん THE GAME はちゃめちゃ就職アドバイス デッド オア ワーク",
 "match": [
 [
 1.0,
@@ -588,6 +628,7 @@
 "titles": [
 "男遊郭"
 ],
+"page_title": "男遊郭",
 "match": [
 [
 0.0,
@@ -601,6 +642,7 @@
 "titles": [
 "オルフレール ～幸福の花束～"
 ],
+"page_title": "オルフレール ～幸福の花束～",
 "match": [
 [
 0.6666666666666666,
@@ -614,6 +656,7 @@
 "titles": [
 "カエル畑DEつかまえて☆彡"
 ],
+"page_title": "カエル畑DEつかまえて☆彡",
 "match": [
 [
 1.0,
@@ -627,6 +670,7 @@
 "titles": [
 "カエル畑ＤＥつかまえて・夏 千木良参戦！"
 ],
+"page_title": "カエル畑ＤＥつかまえて・夏 千木良参戦！",
 "match": [
 [
 1.0,
@@ -640,6 +684,7 @@
 "titles": [
 "学園CLUB～ヒミツのナイトクラブ～"
 ],
+"page_title": "学園CLUB～ヒミツのナイトクラブ～",
 "match": [
 [
 0.6206896551724138,
@@ -653,9 +698,10 @@
 "titles": [
 "学園K -Wonderful School Days-"
 ],
+"page_title": "学園K Wonderful School Days V Edition",
 "match": [
 [
-1.0,
+0.8461538461538461,
 "v13090",
 "学園K -Wonderful School Days-"
 ]
@@ -666,6 +712,7 @@
 "titles": [
 "Cafe Cuillere ～カフェ キュイエール～"
 ],
+"page_title": "Cafe Cuillere ～カフェ キュイエール～",
 "match": [
 [
 1.0,
@@ -679,6 +726,7 @@
 "titles": [
 "神々の悪戯 Unite Edition"
 ],
+"page_title": "神々の悪戯 Unite Edition",
 "match": [
 [
 0.6,
@@ -697,6 +745,7 @@
 "titles": [
 "神々の悪戯"
 ],
+"page_title": "神々の悪戯",
 "match": [
 [
 0.5555555555555556,
@@ -715,6 +764,7 @@
 "titles": [
 "神さまと恋ゴコロ"
 ],
+"page_title": "神さまと恋ゴコロ",
 "match": [
 [
 1.0,
@@ -728,6 +778,7 @@
 "titles": [
 "神なる君と"
 ],
+"page_title": "神なる君と",
 "match": [
 [
 1.0,
@@ -741,6 +792,7 @@
 "titles": [
 "Collar×Malice"
 ],
+"page_title": "Collar×Malice",
 "match": [
 [
 0.96,
@@ -764,6 +816,7 @@
 "titles": [
 "カレイドイヴ"
 ],
+"page_title": "カレイドイヴ",
 "match": [
 [
 1.0,
@@ -777,6 +830,7 @@
 "titles": [
 "神凪ノ杜 五月雨綴り"
 ],
+"page_title": "神凪ノ杜 五月雨綴り",
 "match": [
 [
 0.6153846153846154,
@@ -790,6 +844,7 @@
 "titles": [
 "君に惑い、君に溺れる。"
 ],
+"page_title": "君に惑い、君に溺れる。",
 "match": [
 [
 1.0,
@@ -803,6 +858,7 @@
 "titles": [
 "君は雪間に希う"
 ],
+"page_title": "君は雪間に希う",
 "match": [
 [
 1.0,
@@ -821,6 +877,7 @@
 "titles": [
 "キューピット・パラサイト"
 ],
+"page_title": "キューピット・パラサイト",
 "match": [
 [
 1.0,
@@ -839,6 +896,7 @@
 "titles": [
 "キューピット・パラサイト -Sweet & Spicy Darling.-"
 ],
+"page_title": "キューピット・パラサイト -Sweet & Spicy Darling.-",
 "match": [
 [
 1.0,
@@ -852,6 +910,7 @@
 "titles": [
 "鏡界の白雪"
 ],
+"page_title": "鏡界の白雪",
 "match": [
 [
 1.0,
@@ -865,6 +924,7 @@
 "titles": [
 "金色のコルダ２ ff"
 ],
+"page_title": "金色のコルダ2 ff",
 "match": [
 [
 0.875,
@@ -878,6 +938,7 @@
 "titles": [
 "金色のコルダ3 フルボイス Special"
 ],
+"page_title": "金色のコルダ3 フルボイス Special",
 "match": [
 [
 0.5384615384615384,
@@ -891,6 +952,7 @@
 "titles": [
 "金色のコルダ3 AnotherSky feat. 神南"
 ],
+"page_title": "金色のコルダ3 AnotherSky feat. 神南",
 "match": [
 [
 0.85,
@@ -904,6 +966,7 @@
 "titles": [
 "金色のコルダ３ フルボイス Special(VITA)"
 ],
+"page_title": "金色のコルダ３ フルボイス Special(VITA)",
 "match": [
 [
 0.5384615384615384,
@@ -917,6 +980,7 @@
 "titles": [
 "金色のコルダ３ AnotherSky feat.神南/至誠館/天音学園"
 ],
+"page_title": "金色のコルダ３ AnotherSky feat.神南/至誠館/天音学園",
 "match": [
 [
 0.723404255319149,
@@ -930,6 +994,7 @@
 "titles": [
 "金色のコルダ オクターヴ"
 ],
+"page_title": "金色のコルダ オクターヴ",
 "match": [
 [
 1.0,
@@ -943,6 +1008,7 @@
 "titles": [
 "クランク・イン"
 ],
+"page_title": "クランク・イン",
 "match": [
 [
 1.0,
@@ -966,6 +1032,7 @@
 "titles": [
 "CRAZY CHA!N -エルピスの鎖-"
 ],
+"page_title": "CRAZY CHA!N -エルピスの鎖-",
 "match": [
 [
 1.0,
@@ -979,6 +1046,7 @@
 "titles": [
 "クローバー図書館の住人たち"
 ],
+"page_title": "クローバー図書館の住人たち",
 "match": [
 [
 1.0,
@@ -997,6 +1065,7 @@
 "titles": [
 "クローバー図書館の住人たちⅡ"
 ],
+"page_title": "クローバー図書館の住人たち2",
 "match": [
 [
 1.0,
@@ -1011,9 +1080,10 @@
 "CLOCK ZERO ～終焉の一秒～ Devote",
 "CLOCK ZERO ～終焉の一秒～ ExTime"
 ],
+"page_title": "CLOCK ZERO ～終焉の一秒～",
 "match": [
 [
-0.8235294117647058,
+1.0,
 "v6723",
 "CLOCK ZERO 〜終焉の一秒〜"
 ]
@@ -1024,6 +1094,7 @@
 "titles": [
 "クロノスタシア"
 ],
+"page_title": "クロノスタシア",
 "match": [
 [
 1.0,
@@ -1037,6 +1108,7 @@
 "titles": [
 "黒雪姫～スノウ・ブラック～"
 ],
+"page_title": "黒雪姫～スノウ・ブラック～",
 "match": [
 [
 1.0,
@@ -1050,6 +1122,7 @@
 "titles": [
 "黒雪姫～スノウ・マジック～"
 ],
+"page_title": "黒雪姫～スノウ・マジック～",
 "match": [
 [
 1.0,
@@ -1063,6 +1136,7 @@
 "titles": [
 "軍靴をはいた猫"
 ],
+"page_title": "軍靴をはいた猫",
 "match": [
 [
 1.0,
@@ -1076,6 +1150,7 @@
 "titles": [
 "月影の鎖 狂爛モラトリアム"
 ],
+"page_title": "月影の鎖 狂爛モラトリアム",
 "match": [
 [
 1.0,
@@ -1089,6 +1164,7 @@
 "titles": [
 "下天の華 夢灯り"
 ],
+"page_title": "下天の華 夢灯り",
 "match": [
 [
 1.0,
@@ -1107,6 +1183,7 @@
 "titles": [
 "剣が君 for S"
 ],
+"page_title": "剣が君 for S",
 "match": [
 [
 0.6,
@@ -1125,6 +1202,7 @@
 "titles": [
 "剣が君(剣が君 for V)"
 ],
+"page_title": "剣が君(剣が君 for V)",
 "match": [
 [
 1.0,
@@ -1143,6 +1221,7 @@
 "titles": [
 "剣が君 百夜綴り"
 ],
+"page_title": "剣が君 百夜綴り",
 "match": [
 [
 1.0,
@@ -1161,6 +1240,7 @@
 "titles": [
 "喧嘩番長 乙女 ダブルパック"
 ],
+"page_title": "喧嘩番長 乙女 ダブルパック",
 "match": [
 [
 0.6666666666666666,
@@ -1179,6 +1259,7 @@
 "titles": [
 "喧嘩番長 乙女"
 ],
+"page_title": "喧嘩番長 乙女",
 "match": [
 [
 1.0,
@@ -1202,6 +1283,7 @@
 "titles": [
 "喧嘩番長 乙女 ～完全無欠のマイハニー～"
 ],
+"page_title": "喧嘩番長 乙女 ～完全無欠のマイハニー～",
 "match": [
 [
 1.0,
@@ -1215,6 +1297,7 @@
 "titles": [
 "喧嘩番長 乙女 2nd Rumble !!"
 ],
+"page_title": "喧嘩番長 乙女 2nd Rumble !!",
 "match": [
 [
 1.0,
@@ -1228,6 +1311,7 @@
 "titles": [
 "源氏恋絵巻"
 ],
+"page_title": "源氏恋絵巻",
 "match": [
 [
 1.0,
@@ -1241,6 +1325,7 @@
 "titles": [
 "幻奏喫茶アンシャンテ"
 ],
+"page_title": "幻奏喫茶アンシャンテ",
 "match": [
 [
 1.0,
@@ -1267,6 +1352,7 @@
 "titles": [
 "神足町人妖譚 ～迷イ子の章～"
 ],
+"page_title": "神足町人妖譚 ～迷イ子の章～",
 "match": [
 [
 0.7058823529411765,
@@ -1280,6 +1366,7 @@
 "titles": [
 "Goes！"
 ],
+"page_title": "Goes！",
 "match": [
 [
 1.0,
@@ -1304,9 +1391,20 @@
 "Code:Realize ～創世の姫君～",
 "Code：Realize ～彩虹の花束～ for Nintendo Switch"
 ],
+"page_title": "Code:Realize",
 "match": [
 [
-1.0,
+0.8148148148148148,
+"v21521",
+"Code:Realize ～白銀の奇跡～"
+],
+[
+0.8148148148148148,
+"v18314",
+"Code:Realize ~祝福の未来~"
+],
+[
+0.8148148148148148,
 "v14908",
 "Code:Realize ～創世の姫君～"
 ]
@@ -1317,6 +1415,7 @@
 "titles": [
 "Code：Realize ～白銀の奇跡～"
 ],
+"page_title": "Code：Realize 白銀の奇跡",
 "match": [
 [
 1.0,
@@ -1330,6 +1429,7 @@
 "titles": [
 "黒蝶のサイケデリカ"
 ],
+"page_title": "黒蝶のサイケデリカ",
 "match": [
 [
 1.0,
@@ -1343,6 +1443,7 @@
 "titles": [
 "5人の恋プリンス ～ヒミツの契約結婚～"
 ],
+"page_title": "5人の恋プリンス ～ヒミツの契約結婚～",
 "match": [
 [
 1.0,
@@ -1356,6 +1457,7 @@
 "titles": [
 "殺し屋とストロベリー"
 ],
+"page_title": "殺し屋とストロベリー",
 "match": [
 [
 1.0,
@@ -1369,6 +1471,7 @@
 "titles": [
 "SideKicks!"
 ],
+"page_title": "SideKicks!",
 "match": [
 [
 1.0,
@@ -1382,6 +1485,7 @@
 "titles": [
 "sins of KALEIDO 塔巡りし因果の魔女"
 ],
+"page_title": "sins of KALEIDO 塔巡りし因果の魔女",
 "match": [
 [
 1.0,
@@ -1395,6 +1499,7 @@
 "titles": [
 "PsychicEmotion6"
 ],
+"page_title": "PsychicEmotion6",
 "match": [
 [
 1.0,
@@ -1408,6 +1513,7 @@
 "titles": [
 "里見八犬伝 八珠之記"
 ],
+"page_title": "里見八犬伝 八珠之記",
 "match": [
 [
 0.7142857142857143,
@@ -1421,6 +1527,7 @@
 "titles": [
 "里見八犬伝 浜路姫之記"
 ],
+"page_title": "里見八犬伝 浜路姫之記",
 "match": [
 [
 1.0,
@@ -1434,6 +1541,7 @@
 "titles": [
 "里見八犬伝 村雨丸之記"
 ],
+"page_title": "里見八犬伝 村雨丸之記",
 "match": [
 [
 1.0,
@@ -1447,6 +1555,7 @@
 "titles": [
 "三国恋戦記～オトメの兵法！～"
 ],
+"page_title": "三国恋戦記～オトメの兵法！～",
 "match": [
 [
 1.0,
@@ -1465,6 +1574,7 @@
 "titles": [
 "三国恋戦記～思いでがえし～＋学園恋戦記"
 ],
+"page_title": "三国恋戦記～思いでがえし～＋学園恋戦記",
 "match": [
 [
 0.6666666666666666,
@@ -1488,6 +1598,7 @@
 "titles": [
 "三国恋戦記 魁"
 ],
+"page_title": "三国恋戦記 魁",
 "match": [
 [
 1.0,
@@ -1501,6 +1612,7 @@
 "titles": [
 "参千世界遊戯 ～Re Multi Universe Myself～"
 ],
+"page_title": "参千世界遊戯 ～Re Multi Universe Myself～",
 "match": [
 [
 0.9615384615384616,
@@ -1514,6 +1626,7 @@
 "titles": [
 "死神稼業～怪談ロマンス～"
 ],
+"page_title": "死神稼業～怪談ロマンス～",
 "match": [
 [
 1.0,
@@ -1527,6 +1640,7 @@
 "titles": [
 "死神所業～怪談ロマンス～"
 ],
+"page_title": "死神所業～怪談ロマンス～",
 "match": [
 [
 1.0,
@@ -1540,6 +1654,7 @@
 "titles": [
 "忍び、恋うつつ for Nintendo Switch"
 ],
+"page_title": "忍び、恋うつつ for Nintendo Switch",
 "match": [
 [
 1.0,
@@ -1558,6 +1673,7 @@
 "titles": [
 "ジャックジャンヌ"
 ],
+"page_title": "ジャックジャンヌ",
 "match": [
 [
 1.0,
@@ -1576,6 +1692,7 @@
 "titles": [
 "終遠のヴィルシュ"
 ],
+"page_title": "終遠のヴィルシュ",
 "match": [
 [
 0.5925925925925926,
@@ -1594,6 +1711,7 @@
 "titles": [
 "終遠のヴィルシュ -EpiC:lycoris-"
 ],
+"page_title": "終遠のヴィルシュ -EpiC:lycoris-",
 "match": [
 [
 1.0,
@@ -1607,6 +1725,7 @@
 "titles": [
 "十三支演義 偃月三国伝2"
 ],
+"page_title": "十三支演義 偃月三国伝2",
 "match": [
 [
 1.0,
@@ -1625,6 +1744,7 @@
 "titles": [
 "Jewelic Nightmare"
 ],
+"page_title": "Jewelic Nightmare",
 "match": [
 [
 1.0,
@@ -1638,6 +1758,7 @@
 "titles": [
 "真紅の焔 真田忍法帳"
 ],
+"page_title": "真紅の焔 真田忍法帳",
 "match": [
 [
 1.0,
@@ -1651,9 +1772,10 @@
 "titles": [
 "新宿羅生門 ―Rashomon of Shinjuku―"
 ],
+"page_title": "新宿羅生門",
 "match": [
 [
-0.4,
+1.0,
 "v34021",
 "新宿羅生門"
 ]
@@ -1664,6 +1786,7 @@
 "titles": [
 "新装版クローバーの国のアリス ～Wonderful Wonder World～"
 ],
+"page_title": "新装版クローバーの国のアリス ～Wonderful Wonder World～",
 "match": [
 [
 0.9508196721311475,
@@ -1677,6 +1800,7 @@
 "titles": [
 "新装版クリムゾン・エンパイア"
 ],
+"page_title": "新装版クリムゾン・エンパイア",
 "match": [
 [
 0.40816326530612246,
@@ -1690,6 +1814,7 @@
 "titles": [
 "新装版魔法使いとご主人様"
 ],
+"page_title": "新装版魔法使いとご主人様",
 "match": [
 [
 0.46153846153846156,
@@ -1703,6 +1828,7 @@
 "titles": [
 "SympathyKiss"
 ],
+"page_title": "SympathyKiss",
 "match": [
 [
 1.0,
@@ -1716,6 +1842,7 @@
 "titles": [
 "数乱digit"
 ],
+"page_title": "数乱digit",
 "match": [
 [
 1.0,
@@ -1729,6 +1856,7 @@
 "titles": [
 "スカーレッドライダーゼクス Rev."
 ],
+"page_title": "スカーレッドライダーゼクス Rev.",
 "match": [
 [
 0.88,
@@ -1742,6 +1870,7 @@
 "titles": [
 "Starry☆Sky～Spring Stories～"
 ],
+"page_title": "Starry☆Sky～Spring Stories～",
 "match": [
 [
 0.7692307692307693,
@@ -1765,6 +1894,7 @@
 "titles": [
 "Starry☆Sky～Summer Stories～"
 ],
+"page_title": "Starry☆Sky～Summer Stories～",
 "match": [
 [
 0.7692307692307693,
@@ -1788,6 +1918,7 @@
 "titles": [
 "Starry☆Sky ～Autumn Stories～"
 ],
+"page_title": "Starry☆Sky ～Autumn Stories～",
 "match": [
 [
 0.7692307692307693,
@@ -1811,6 +1942,7 @@
 "titles": [
 "Starry☆Sky～Winter Stories～"
 ],
+"page_title": "Starry☆Sky～Winter Stories～",
 "match": [
 [
 0.7692307692307693,
@@ -1834,6 +1966,7 @@
 "titles": [
 "スチームプリズン Beyond the Steam"
 ],
+"page_title": "スチームプリズン Beyond the Steam",
 "match": [
 [
 1.0,
@@ -1847,6 +1980,7 @@
 "titles": [
 "SNOW BOUND LAND"
 ],
+"page_title": "SNOW BOUND LAND",
 "match": [
 [
 1.0,
@@ -1860,6 +1994,7 @@
 "titles": [
 "スペードの国のアリス Wonderful White World"
 ],
+"page_title": "スペードの国のアリス Wonderful White World",
 "match": [
 [
 0.4864864864864865,
@@ -1873,6 +2008,7 @@
 "titles": [
 "スペードの国のアリス Wonderful Black World"
 ],
+"page_title": "スペードの国のアリス Wonderful Black World",
 "match": [
 [
 0.4864864864864865,
@@ -1886,6 +2022,7 @@
 "titles": [
 "絶対階級学園"
 ],
+"page_title": "絶対階級学園",
 "match": [
 [
 0.7058823529411765,
@@ -1922,6 +2059,7 @@
 "titles": [
 "絶対迷宮 秘密のおやゆび姫"
 ],
+"page_title": "絶対迷宮 秘密のおやゆび姫",
 "match": [
 [
 1.0,
@@ -1935,6 +2073,7 @@
 "titles": [
 "滄海天記"
 ],
+"page_title": "滄海天記",
 "match": [
 [
 1.0,
@@ -1948,6 +2087,7 @@
 "titles": [
 "爽海バッカニアーズ！"
 ],
+"page_title": "爽海バッカニアーズ！",
 "match": [
 [
 1.0,
@@ -1961,6 +2101,7 @@
 "titles": [
 "蒼天の彼方"
 ],
+"page_title": "蒼天の彼方",
 "match": [
 [
 1.0,
@@ -1974,6 +2115,7 @@
 "titles": [
 "ソラユメ"
 ],
+"page_title": "ソラユメ",
 "match": [
 [
 1.0,
@@ -1987,6 +2129,7 @@
 "titles": [
 "大正×対称アリス all in one"
 ],
+"page_title": "大正×対称アリス all in one",
 "match": [
 [
 0.6363636363636364,
@@ -2000,6 +2143,7 @@
 "titles": [
 "大正鬼譚"
 ],
+"page_title": "大正鬼譚",
 "match": [
 [
 1.0,
@@ -2018,6 +2162,7 @@
 "titles": [
 "大正鬼譚 ～言ノ葉櫻～"
 ],
+"page_title": "大正鬼譚 ～言ノ葉櫻～",
 "match": [
 [
 1.0,
@@ -2031,6 +2176,7 @@
 "titles": [
 "DIG-ROCK -Documentary of Youthful Sounds-"
 ],
+"page_title": "DIG-ROCK -Documentary of Youthful Sounds-",
 "match": [
 [
 1.0,
@@ -2044,6 +2190,7 @@
 "titles": [
 "DistortedCode-生者の残り香-"
 ],
+"page_title": "DistortedCode-生者の残り香-",
 "match": [
 [
 1.0,
@@ -2057,6 +2204,7 @@
 "titles": [
 "Tiny×Machinegun"
 ],
+"page_title": "Tiny×Machinegun",
 "match": [
 [
 0.9655172413793104,
@@ -2070,6 +2218,7 @@
 "titles": [
 "DAIROKU：AYAKASHIMORI"
 ],
+"page_title": "DAIROKU：AYAKASHIMORI",
 "match": [
 [
 1.0,
@@ -2083,6 +2232,7 @@
 "titles": [
 "黄昏時～怪談ロマンス～"
 ],
+"page_title": "黄昏時～怪談ロマンス～",
 "match": [
 [
 1.0,
@@ -2096,6 +2246,7 @@
 "titles": [
 "Double Score～Cosmos×Camellia～"
 ],
+"page_title": "Double Score～Cosmos×Camellia～",
 "match": [
 [
 0.6111111111111112,
@@ -2109,6 +2260,7 @@
 "titles": [
 "Double Score～Cattleya×Narcissus～"
 ],
+"page_title": "Double Score～Cattleya×Narcissus～",
 "match": [
 [
 0.5641025641025641,
@@ -2122,6 +2274,7 @@
 "titles": [
 "Double Score ～Marguerite×Tulip～"
 ],
+"page_title": "Double Score ～Marguerite×Tulip～",
 "match": [
 [
 0.5945945945945946,
@@ -2135,6 +2288,7 @@
 "titles": [
 "誰にでも裏がある-true or lie?-"
 ],
+"page_title": "誰にでも裏がある-true or lie?-",
 "match": [
 [
 1.0,
@@ -2148,6 +2302,7 @@
 "titles": [
 "誰にでも裏がある-Happy Gift-"
 ],
+"page_title": "誰にでも裏がある-Happy Gift-",
 "match": [
 [
 1.0,
@@ -2161,6 +2316,7 @@
 "titles": [
 "Dance with Devils"
 ],
+"page_title": "Dance with Devils",
 "match": [
 [
 1.0,
@@ -2179,6 +2335,7 @@
 "titles": [
 "Dance with Devils My Carol"
 ],
+"page_title": "Dance with Devils My Carol",
 "match": [
 [
 1.0,
@@ -2192,6 +2349,7 @@
 "titles": [
 "蝶の毒 華の鎖 ～大正艶恋異聞～"
 ],
+"page_title": "蝶の毒 華の鎖 ～大正艶恋異聞～",
 "match": [
 [
 0.6666666666666666,
@@ -2215,6 +2373,7 @@
 "titles": [
 "罪喰い～千の呪い、千の祈り～"
 ],
+"page_title": "罪喰い～千の呪い、千の祈り～",
 "match": [
 [
 1.0,
@@ -2228,6 +2387,7 @@
 "titles": [
 "DIABOLIK LOVERS VANDEAD CARNIVAL"
 ],
+"page_title": "DIABOLIK LOVERS VANDEAD CARNIVAL",
 "match": [
 [
 1.0,
@@ -2241,6 +2401,7 @@
 "titles": [
 "DIABOLIK LOVERS DARK FATE"
 ],
+"page_title": "DIABOLIK LOVERS DARK FATE",
 "match": [
 [
 1.0,
@@ -2254,6 +2415,7 @@
 "titles": [
 "DIABOLIK LOVERS LOST EDEN"
 ],
+"page_title": "DIABOLIK LOVERS LOST EDEN",
 "match": [
 [
 1.0,
@@ -2267,6 +2429,7 @@
 "titles": [
 "DIABOLIK LOVERS CHAOS LINEAGE"
 ],
+"page_title": "DIABOLIK LOVERS CHAOS LINEAGE",
 "match": [
 [
 1.0,
@@ -2280,6 +2443,7 @@
 "titles": [
 "帝国海軍恋慕情～明治横須賀行進曲～"
 ],
+"page_title": "帝国海軍恋慕情～明治横須賀行進曲～",
 "match": [
 [
 1.0,
@@ -2293,6 +2457,7 @@
 "titles": [
 "帝國カレイド―革命の輪舞曲―"
 ],
+"page_title": "帝國カレイド―革命の輪舞曲―",
 "match": [
 [
 0.6956521739130435,
@@ -2306,6 +2471,7 @@
 "titles": [
 "デス・コネクション ポータブル"
 ],
+"page_title": "デス・コネクション ポータブル",
 "match": [
 [
 0.0,
@@ -2319,6 +2485,7 @@
 "titles": [
 "DesperaDrops（デスペラドロップス）"
 ],
+"page_title": "DesperaDrops",
 "match": [
 [
 1.0,
@@ -2332,6 +2499,7 @@
 "titles": [
 "テミラーナ国の強運姫と悲運騎士団"
 ],
+"page_title": "テミラーナ国の強運姫と悲運騎士団",
 "match": [
 [
 1.0,
@@ -2345,6 +2513,7 @@
 "titles": [
 "天涯ニ舞ウ、粋ナ花"
 ],
+"page_title": "天涯ニ舞ウ、粋ナ花",
 "match": [
 [
 1.0,
@@ -2358,6 +2527,7 @@
 "titles": [
 "天獄ストラグル strayside"
 ],
+"page_title": "天獄ストラグル strayside",
 "match": [
 [
 1.0,
@@ -2371,6 +2541,7 @@
 "titles": [
 "TOKYOヤマノテBOYS for V MAIN DISC"
 ],
+"page_title": "TOKYOヤマノテBOYS for V MAIN DISC",
 "match": [
 [
 0.8235294117647058,
@@ -2394,6 +2565,7 @@
 "titles": [
 "TOKYOヤマノテBOYS for V FAN DISC"
 ],
+"page_title": "TOKYOヤマノテBOYS for V FAN DISC",
 "match": [
 [
 0.7692307692307693,
@@ -2417,6 +2589,7 @@
 "titles": [
 "ドウセイカレシ vol.1 Butterfly Lip"
 ],
+"page_title": "ドウセイカレシ vol.1 Butterfly Lip",
 "match": []
 },
 {
@@ -2424,6 +2597,7 @@
 "titles": [
 "ドウセイカレシ vol.2 Butterfly Gloss"
 ],
+"page_title": "ドウセイカレシ vol.2 Butterfly Gloss",
 "match": []
 },
 {
@@ -2431,6 +2605,7 @@
 "titles": [
 "十鬼の絆"
 ],
+"page_title": "十鬼の絆",
 "match": [
 [
 0.75,
@@ -2449,6 +2624,7 @@
 "titles": [
 "時計仕掛けのアポカリプス"
 ],
+"page_title": "時計仕掛けのアポカリプス",
 "match": [
 [
 1.0,
@@ -2462,6 +2638,7 @@
 "titles": [
 "トラブル・マギア ～訳アリ少女は未来を勝ち取るために異国の魔法学校へ留学します～"
 ],
+"page_title": "トラブル・マギア",
 "match": [
 [
 1.0,
@@ -2475,6 +2652,7 @@
 "titles": [
 "鳥籠のマリアージュ～初恋の翼～"
 ],
+"page_title": "鳥籠のマリアージュ～初恋の翼～",
 "match": [
 [
 0.8,
@@ -2488,6 +2666,7 @@
 "titles": [
 "9 R.I.P."
 ],
+"page_title": "9 R.I.P.",
 "match": [
 [
 1.0,
@@ -2511,21 +2690,12 @@
 "titles": [
 "9 R.I.P."
 ],
+"page_title": "9 R.I.P. sequel",
 "match": [
 [
 1.0,
-"v38068",
-"9 R.I.P."
-],
-[
-0.5714285714285714,
 "v52276",
 "9 R.I.P. sequel"
-],
-[
-0.5454545454545454,
-"v33448",
-"Ripples"
 ]
 ]
 },
@@ -2534,6 +2704,7 @@
 "titles": [
 "夏空のモノローグ ～Another Memory～"
 ],
+"page_title": "夏空のモノローグ ～Another Memory～",
 "match": [
 [
 0.5185185185185185,
@@ -2547,6 +2718,7 @@
 "titles": [
 "ネオ アンジェリーク 天使の涙"
 ],
+"page_title": "ネオ アンジェリーク 天使の涙",
 "match": [
 [
 1.0,
@@ -2560,6 +2732,7 @@
 "titles": [
 "ネオンクラッシュ -Echoes of the Lost-"
 ],
+"page_title": "ネオンクラッシュ -Echoes of the Lost-",
 "match": [
 [
 1.0,
@@ -2573,6 +2746,7 @@
 "titles": [
 "Binary Star"
 ],
+"page_title": "Binary Star バイナリースター",
 "match": [
 [
 1.0,
@@ -2591,6 +2765,7 @@
 "titles": [
 "ハイリゲンシュタットの歌"
 ],
+"page_title": "ハイリゲンシュタットの歌",
 "match": [
 [
 1.0,
@@ -2604,6 +2779,7 @@
 "titles": [
 "薄桜鬼 真改 万葉ノ抄"
 ],
+"page_title": "薄桜鬼 真改 万葉ノ抄",
 "match": [
 [
 1.0,
@@ -2617,6 +2793,7 @@
 "titles": [
 "BAD APPLE WARS"
 ],
+"page_title": "BAD APPLE WARS",
 "match": [
 [
 1.0,
@@ -2630,6 +2807,7 @@
 "titles": [
 "花笑む彼と & bloom"
 ],
+"page_title": "花笑む彼と & bloom",
 "match": [
 [
 1.0,
@@ -2643,6 +2821,7 @@
 "titles": [
 "花咲くまにまに"
 ],
+"page_title": "花咲くまにまに",
 "match": [
 [
 1.0,
@@ -2656,6 +2835,7 @@
 "titles": [
 "Honey Vibes"
 ],
+"page_title": "Honey Vibes",
 "match": [
 [
 1.0,
@@ -2669,9 +2849,10 @@
 "titles": [
 "Paradigm Paradox"
 ],
+"page_title": "パラダイム パラドックス (Paradigm Paradox)",
 "match": [
 [
-1.0,
+0.7317073170731707,
 "v28803",
 "Paradigm Paradox"
 ]
@@ -2682,6 +2863,7 @@
 "titles": [
 "薔薇に隠されしヴェリテ"
 ],
+"page_title": "薔薇に隠されしヴェリテ",
 "match": [
 [
 1.0,
@@ -2695,6 +2877,7 @@
 "titles": [
 "遙かなる時空の中で Ultimate"
 ],
+"page_title": "遙かなる時空の中で Ultimate",
 "match": [
 [
 0.6923076923076923,
@@ -2718,6 +2901,7 @@
 "titles": [
 "遙かなる時空の中で３ Ultimate"
 ],
+"page_title": "遙かなる時空の中で３ Ultimate",
 "match": [
 [
 0.7142857142857143,
@@ -2736,6 +2920,7 @@
 "titles": [
 "ハンサムロンダリング -the mystic lover-"
 ],
+"page_title": "ハンサムロンダリング -the mystic lover-",
 "match": [
 [
 1.0,
@@ -2749,14 +2934,15 @@
 "titles": [
 "ピオフィオーレの晩鐘"
 ],
+"page_title": "ピオフィオーレの晩鐘 -ricordo-",
 "match": [
 [
-1.0,
+0.72,
 "v21782",
 "ピオフィオーレの晩鐘"
 ],
 [
-0.6,
+0.7027027027027027,
 "v25914",
 "ピオフィオーレの晩鐘 -Episodio1926-"
 ]
@@ -2767,6 +2953,7 @@
 "titles": [
 "ピオフィオーレの晩鐘 -Episodio1926-"
 ],
+"page_title": "ピオフィオーレの晩鐘 -Episodio1926-",
 "match": [
 [
 1.0,
@@ -2780,6 +2967,7 @@
 "titles": [
 "VitaminX Destination"
 ],
+"page_title": "VitaminX Destination",
 "match": [
 [
 1.0,
@@ -2793,6 +2981,7 @@
 "titles": [
 "ひめひび １学期 Princess Days"
 ],
+"page_title": "ひめひび １学期 Princess Days",
 "match": []
 },
 {
@@ -2800,6 +2989,7 @@
 "titles": [
 "ひめひび 続！二学期 New Princess Days!!"
 ],
+"page_title": "ひめひび 続！二学期 New Princess Days!!",
 "match": [
 [
 0.8260869565217391,
@@ -2813,6 +3003,7 @@
 "titles": [
 "百花百狼 ～戦国忍法帖～"
 ],
+"page_title": "百花百狼 ～戦国忍法帖～",
 "match": [
 [
 1.0,
@@ -2826,6 +3017,7 @@
 "titles": [
 "百華夜光"
 ],
+"page_title": "百華夜光",
 "match": [
 [
 1.0,
@@ -2839,6 +3031,7 @@
 "titles": [
 "BYAKKO ～四神部隊炎恋記～"
 ],
+"page_title": "BYAKKO ～四神部隊炎恋記～",
 "match": [
 [
 1.0,
@@ -2852,6 +3045,7 @@
 "titles": [
 "比翼の禽 －ひよくのとり－"
 ],
+"page_title": "比翼の禽 －ひよくのとり－",
 "match": [
 [
 1.0,
@@ -2865,6 +3059,7 @@
 "titles": [
 "BELIEVER！"
 ],
+"page_title": "BELIEVER！",
 "match": [
 [
 1.0,
@@ -2883,6 +3078,7 @@
 "titles": [
 "ピリオドキューブ ～鳥籠のアマデウス～"
 ],
+"page_title": "ピリオドキューブ ～鳥籠のアマデウス～",
 "match": [
 [
 1.0,
@@ -2896,6 +3092,7 @@
 "titles": [
 "ビルシャナ戦姫 ～源平飛花夢想～"
 ],
+"page_title": "ビルシャナ戦姫 ～源平飛花夢想～",
 "match": [
 [
 1.0,
@@ -2909,6 +3106,7 @@
 "titles": [
 "ビルシャナ戦姫 ～一樹の風～"
 ],
+"page_title": "ビルシャナ戦姫 ～一樹の風～",
 "match": [
 [
 1.0,
@@ -2922,6 +3120,7 @@
 "titles": [
 "冬園サクリフィス"
 ],
+"page_title": "冬園サクリフィス",
 "match": [
 [
 1.0,
@@ -2935,6 +3134,7 @@
 "titles": [
 "BROTHERS CONFLICT Precious Baby for Nintendo Switch"
 ],
+"page_title": "BROTHERS CONFLICT　Precious Baby for Nintendo Switch",
 "match": [
 [
 0.7272727272727273,
@@ -2948,6 +3148,7 @@
 "titles": [
 "崩壊世界のナヴィガトーレ"
 ],
+"page_title": "崩壊世界のナヴィガトーレ 全エンド",
 "match": [
 [
 1.0,
@@ -2961,6 +3162,7 @@
 "titles": [
 "My9Swallows TOPSTARS LEAGUE"
 ],
+"page_title": "My9Swallows TOPSTARS LEAGUE",
 "match": [
 [
 1.0,
@@ -2974,6 +3176,7 @@
 "titles": [
 "マジェスティック☆マジョリカル"
 ],
+"page_title": "マジェスティック☆マジョリカル",
 "match": [
 [
 1.0,
@@ -2987,6 +3190,7 @@
 "titles": [
 "魔女と亡霊のヴォロンテ"
 ],
+"page_title": "魔女と亡霊のヴォロンテ",
 "match": [
 [
 1.0,
@@ -3000,6 +3204,7 @@
 "titles": [
 "マツリカの炯-kEi- 天命胤異伝"
 ],
+"page_title": "マツリカの炯-kEi- 天命胤異伝",
 "match": [
 [
 1.0,
@@ -3013,6 +3218,7 @@
 "titles": [
 "マツリカの炯-kEi- 天命華燭伝"
 ],
+"page_title": "マツリカの炯-kEi- 天命華燭伝",
 "match": [
 [
 1.0,
@@ -3026,6 +3232,7 @@
 "titles": [
 "Money Parasite ～嘘つきな女～"
 ],
+"page_title": "Money Parasite ～嘘つきな女～",
 "match": [
 [
 1.0,
@@ -3039,6 +3246,7 @@
 "titles": [
 "ミストニアの翅望"
 ],
+"page_title": "ミストニアの翅望",
 "match": [
 [
 0.5333333333333333,
@@ -3052,6 +3260,7 @@
 "titles": [
 "明治活劇 ハイカラ流星組 －成敗しませう、世直し稼業－"
 ],
+"page_title": "明治活劇 ハイカラ流星組 －成敗しませう、世直し稼業－",
 "match": [
 [
 1.0,
@@ -3065,6 +3274,7 @@
 "titles": [
 "燃えよ！ 乙女道士 ～華遊恋語～"
 ],
+"page_title": "燃えよ！ 乙女道士 ～華遊恋語～",
 "match": [
 [
 1.0,
@@ -3078,6 +3288,7 @@
 "titles": [
 "文字化化"
 ],
+"page_title": "文字化化",
 "match": [
 [
 1.0,
@@ -3091,6 +3302,7 @@
 "titles": [
 "勿ノ怪契リ"
 ],
+"page_title": "勿ノ怪契リ",
 "match": [
 [
 1.0,
@@ -3104,6 +3316,7 @@
 "titles": [
 "ラディアンテイル"
 ],
+"page_title": "ラディアンテイル",
 "match": [
 [
 1.0,
@@ -3122,6 +3335,7 @@
 "titles": [
 "ラディアンテイル ファンファーレ！"
 ],
+"page_title": "ラディアンテイル ファンファーレ！",
 "match": [
 [
 1.0,
@@ -3135,6 +3349,7 @@
 "titles": [
 "LoverPretend"
 ],
+"page_title": "LoverPretend（ラバープリテンド）",
 "match": [
 [
 1.0,
@@ -3148,6 +3363,7 @@
 "titles": [
 "レッドベルの慟哭"
 ],
+"page_title": "レッドベルの慟哭",
 "match": [
 [
 1.0,
@@ -3161,6 +3377,7 @@
 "titles": [
 "愛は、憎しみによく似ている 憎しみは、愛によく似ている"
 ],
+"page_title": "愛は、憎しみによく似ている 憎しみは、愛によく似ている",
 "match": [
 [
 1.0,
@@ -3174,6 +3391,7 @@
 "titles": [
 "赤ずきんと迷いの森"
 ],
+"page_title": "赤ずきんと迷いの森",
 "match": [
 [
 1.0,
@@ -3187,6 +3405,7 @@
 "titles": [
 "いじわるMyMaster"
 ],
+"page_title": "いじわるMyMaster",
 "match": [
 [
 1.0,
@@ -3200,6 +3419,7 @@
 "titles": [
 "鬼と花妻 花盗人は、躑躅か椿か"
 ],
+"page_title": "鬼と花妻 花盗人は、躑躅か椿か",
 "match": [
 [
 1.0,
@@ -3213,6 +3433,7 @@
 "titles": [
 "参千世界遊戯"
 ],
+"page_title": "参千世界遊戯",
 "match": [
 [
 0.3870967741935484,
@@ -3226,6 +3447,7 @@
 "titles": [
 "ふるえ、ゆらゆらと 下弦の章"
 ],
+"page_title": "ふるえ、ゆらゆらと 下弦の章",
 "match": [
 [
 0.8,
@@ -3239,6 +3461,7 @@
 "titles": [
 "ボッチムスメ×プロデュース計画。"
 ],
+"page_title": "ボッチムスメ×プロデュース計画。",
 "match": [
 [
 1.0,
@@ -3252,6 +3475,7 @@
 "titles": [
 "魔性眼鏡"
 ],
+"page_title": "魔性眼鏡",
 "match": [
 [
 1.0,
@@ -3265,6 +3489,7 @@
 "titles": [
 "吉原彼岸花"
 ],
+"page_title": "吉原彼岸花",
 "match": [
 [
 1.0,
@@ -3278,6 +3503,7 @@
 "titles": [
 "Riddle Garden"
 ],
+"page_title": "Riddle Garden",
 "match": [
 [
 1.0,
@@ -3291,6 +3517,7 @@
 "titles": [
 "ARMEN NOIR portable"
 ],
+"page_title": "ARMEN NOIR portable",
 "match": [
 [
 1.0,
@@ -3304,6 +3531,7 @@
 "titles": [
 "Are you Alice?"
 ],
+"page_title": "Are you Alice?",
 "match": [
 [
 1.0,
@@ -3317,6 +3545,7 @@
 "titles": [
 "あやかしごはん おおもりっ！"
 ],
+"page_title": "あやかしごはん おおもりっ！",
 "match": [
 [
 0.7368421052631579,
@@ -3330,6 +3559,7 @@
 "titles": [
 "イケメン戦国 時をかける恋 新たなる出逢い"
 ],
+"page_title": "イケメン戦国 時をかける恋 新たなる出逢い",
 "match": [
 [
 0.7741935483870968,
@@ -3343,6 +3573,7 @@
 "titles": [
 "OZMAFIA!! vivace"
 ],
+"page_title": "OZMAFIA!! vivace",
 "match": [
 [
 0.7,
@@ -3356,6 +3587,7 @@
 "titles": [
 "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 波乱を呼ぶ海賊"
 ],
+"page_title": "はめふら 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 波乱を呼ぶ海賊",
 "match": [
 [
 1.0,
@@ -3369,6 +3601,7 @@
 "titles": [
 "オランピアソワレ"
 ],
+"page_title": "オランピアソワレ",
 "match": [
 [
 1.0,
@@ -3387,6 +3620,7 @@
 "titles": [
 "オランピアソワレ Catharsis"
 ],
+"page_title": "オランピアソワレ Catharsis",
 "match": [
 [
 1.0,
@@ -3400,6 +3634,7 @@
 "titles": [
 "学園特救ホトケンサー"
 ],
+"page_title": "学園特救ホトケンサー",
 "match": [
 [
 1.0,
@@ -3413,6 +3648,7 @@
 "titles": [
 "籠の中のアリシス"
 ],
+"page_title": "籠の中のアリシス",
 "match": [
 [
 1.0,
@@ -3426,6 +3662,7 @@
 "titles": [
 "片恋いコントラスト ―collection of branch―"
 ],
+"page_title": "片恋いコントラスト ―collection of branch―",
 "match": [
 [
 0.5416666666666666,
@@ -3439,6 +3676,7 @@
 "titles": [
 "片恋いコントラスト ―way of parting― 第一巻"
 ],
+"page_title": "片恋いコントラスト ―way of parting― 第一巻",
 "match": [
 [
 0.9333333333333333,
@@ -3452,6 +3690,7 @@
 "titles": [
 "片恋いコントラスト way of parting 第二巻"
 ],
+"page_title": "片恋いコントラスト ―way of parting― 第二巻",
 "match": [
 [
 0.9333333333333333,
@@ -3465,6 +3704,7 @@
 "titles": [
 "片恋いコントラスト ―way of parting― 第三巻"
 ],
+"page_title": "片恋いコントラスト ―way of parting― 第三巻",
 "match": [
 [
 0.9333333333333333,
@@ -3478,6 +3718,7 @@
 "titles": [
 "神々の悪戯 InFinite"
 ],
+"page_title": "神々の悪戯 InFinite",
 "match": [
 [
 1.0,
@@ -3491,6 +3732,7 @@
 "titles": [
 "Collar×Malice for Nintendo Switch"
 ],
+"page_title": "Collar×Malice for Nintendo Switch",
 "match": [
 [
 0.96,
@@ -3514,6 +3756,7 @@
 "titles": [
 "Collar×Malice Unlimited"
 ],
+"page_title": "Collar×Malice Unlimited",
 "match": [
 [
 0.9767441860465116,
@@ -3527,6 +3770,7 @@
 "titles": [
 "神凪ノ杜 妖狐奇譚"
 ],
+"page_title": "神凪ノ杜 妖狐奇譚",
 "match": [
 [
 0.6666666666666666,
@@ -3540,6 +3784,7 @@
 "titles": [
 "神凪ノ杜 龍神奇譚"
 ],
+"page_title": "神凪ノ杜 龍神奇譚",
 "match": [
 [
 0.6666666666666666,
@@ -3553,6 +3798,7 @@
 "titles": [
 "狂気より愛をこめて"
 ],
+"page_title": "狂気より愛をこめて",
 "match": [
 [
 1.0,
@@ -3566,6 +3812,7 @@
 "titles": [
 "Glass Heart Princess"
 ],
+"page_title": "Glass Heart Princess(グラスハートプリンセス)",
 "match": [
 [
 1.0,
@@ -3584,6 +3831,7 @@
 "titles": [
 "Glass Heart Princess PLATINUM"
 ],
+"page_title": "Glass Heart Princess PLATINUM(グラスハートプリンセス プラチナム)",
 "match": [
 [
 1.0,
@@ -3602,6 +3850,7 @@
 "titles": [
 "KLAP!! ～Kind Love And Punish～"
 ],
+"page_title": "KLAP!! ～Kind Love And Punish～",
 "match": [
 [
 1.0,
@@ -3620,6 +3869,7 @@
 "titles": [
 "KLAP!! ～Kind Love And Punish～ Fun Party"
 ],
+"page_title": "KLAP!! ～Kind Love And Punish～ Fun Party",
 "match": [
 [
 1.0,
@@ -3633,6 +3883,7 @@
 "titles": [
 "月影の鎖 ～錯乱パラノイア～"
 ],
+"page_title": "月影の鎖　～錯乱パラノイア～",
 "match": [
 [
 1.0,
@@ -3646,6 +3897,7 @@
 "titles": [
 "月影の鎖 狂爛モラトリアム"
 ],
+"page_title": "月影の鎖 狂爛モラトリアム",
 "match": [
 [
 1.0,
@@ -3659,6 +3911,7 @@
 "titles": [
 "下天の華 with 夢灯り 愛蔵版"
 ],
+"page_title": "下天の華 with 夢灯り 愛蔵版",
 "match": [
 [
 0.7777777777777778,
@@ -3677,6 +3930,7 @@
 "titles": [
 "幻想マネージュ"
 ],
+"page_title": "幻想マネージュ",
 "match": [
 [
 1.0,
@@ -3690,6 +3944,7 @@
 "titles": [
 "恋の花咲く百花園"
 ],
+"page_title": "恋の花咲く百花園",
 "match": [
 [
 1.0,
@@ -3703,6 +3958,7 @@
 "titles": [
 "越えざるは紅い花"
 ],
+"page_title": "越えざるは紅い花",
 "match": [
 [
 1.0,
@@ -3726,6 +3982,7 @@
 "titles": [
 "Code：Realize ～祝福の未来～"
 ],
+"page_title": "Code：Realize ～祝福の未来～",
 "match": [
 [
 1.0,
@@ -3744,9 +4001,10 @@
 "titles": [
 "サンドリヨンパリカ"
 ],
+"page_title": "Cendrillon palikA",
 "match": [
 [
-0.0,
+1.0,
 "v21783",
 "Cendrillon palikA"
 ]
@@ -3757,6 +4015,7 @@
 "titles": [
 "死神と少女"
 ],
+"page_title": "死神と少女",
 "match": [
 [
 1.0,
@@ -3770,6 +4029,7 @@
 "titles": [
 "忍び、恋うつつ"
 ],
+"page_title": "忍び、恋うつつ",
 "match": [
 [
 1.0,
@@ -3788,12 +4048,8 @@
 "titles": [
 "忍び、恋うつつ ― 雪月花恋絵巻 ―"
 ],
+"page_title": "忍び、恋うつつ 雪月花恋絵巻",
 "match": [
-[
-0.782608695652174,
-"v19847",
-"忍び、恋うつつ ― 甘蜜花絵巻 ―"
-],
 [
 0.6666666666666666,
 "v12751",
@@ -3806,6 +4062,7 @@
 "titles": [
 "忍び、恋うつつ ― 甘蜜花絵巻 ―"
 ],
+"page_title": "忍び、恋うつつ ― 甘蜜花絵巻 ―",
 "match": [
 [
 1.0,
@@ -3824,6 +4081,7 @@
 "titles": [
 "蛇香のライラ ～Trap of MUSK～"
 ],
+"page_title": "蛇香のライラ ～Trap of MUSK～",
 "match": [
 [
 0.7647058823529411,
@@ -3837,6 +4095,7 @@
 "titles": [
 "蛇香のライラ ～Allure of MUSK～ 第一夜 ヨーロピアン・ナイト"
 ],
+"page_title": "蛇香のライラ ～Allure of MUSK～　第一夜　ヨーロピアン・ナイト",
 "match": [
 [
 0.7659574468085106,
@@ -3850,6 +4109,7 @@
 "titles": [
 "蛇香のライラ ～Allure of MUSK～ 第二夜 アジアン・ナイト"
 ],
+"page_title": "蛇香のライラ 第二夜 アジアン・ナイト",
 "match": [
 [
 0.782608695652174,
@@ -3863,6 +4123,7 @@
 "titles": [
 "蛇香のライラ ～Allure of MUSK～ 第三夜 アラビアン・ナイト"
 ],
+"page_title": "蛇香のライラ ～Allure of MUSK～　第三夜　アラビアン・ナイト",
 "match": [
 [
 0.7659574468085106,
@@ -3876,6 +4137,7 @@
 "titles": [
 "CharadeManiacs(シャレードマニアクス)"
 ],
+"page_title": "CharadeManiacs（シャレードマニアクス）",
 "match": [
 [
 1.0,
@@ -3894,6 +4156,7 @@
 "titles": [
 "十三支演義 偃月三国伝1・2"
 ],
+"page_title": "十三支演義 偃月三国伝1・2",
 "match": [
 [
 0.9565217391304348,
@@ -3912,9 +4175,10 @@
 "titles": [
 "私立ベルばら学園"
 ],
+"page_title": "私立ベルばら学園～ベルサイユのばらRe*imagination～",
 "match": [
 [
-0.43243243243243246,
+1.0,
 "v21785",
 "私立ベルばら学園 ～ベルサイユのばらRe*imagination～"
 ]
@@ -3925,6 +4189,7 @@
 "titles": [
 "白と黒のアリス for Nintendo Switch"
 ],
+"page_title": "白と黒のアリス for Nintendo Switch",
 "match": [
 [
 1.0,
@@ -3943,6 +4208,7 @@
 "titles": [
 "白と黒のアリス"
 ],
+"page_title": "白と黒のアリス",
 "match": [
 [
 1.0,
@@ -3961,6 +4227,7 @@
 "titles": [
 "白と黒のアリス -Twilight line-"
 ],
+"page_title": "白と黒のアリス -Twilight line-",
 "match": [
 [
 1.0,
@@ -3974,6 +4241,7 @@
 "titles": [
 "SWEET CLOWN ～午前三時のオカシな道化師～"
 ],
+"page_title": "SWEET CLOWN ～午前三時のオカシな道化師～",
 "match": [
 [
 1.0,
@@ -3987,6 +4255,7 @@
 "titles": [
 "スチームプリズン"
 ],
+"page_title": "スチームプリズン",
 "match": [
 [
 1.0,
@@ -4005,6 +4274,7 @@
 "titles": [
 "7'scarlet"
 ],
+"page_title": "7'scarlet",
 "match": [
 [
 1.0,
@@ -4018,6 +4288,7 @@
 "titles": [
 "戦場の円舞曲"
 ],
+"page_title": "戦場の円舞曲",
 "match": [
 [
 1.0,
@@ -4031,6 +4302,7 @@
 "titles": [
 "蒼黒の楔 緋色の欠片3 ポータブル"
 ],
+"page_title": "蒼黒の楔 緋色の欠片3 ポータブル",
 "match": [
 [
 1.0,
@@ -4049,6 +4321,7 @@
 "titles": [
 "蒼黒の楔 ～緋色の欠片3～ 明日への扉"
 ],
+"page_title": "蒼黒の楔 ～緋色の欠片3～ 明日への扉",
 "match": [
 [
 1.0,
@@ -4067,6 +4340,7 @@
 "titles": [
 "大正×対称アリス episode 1"
 ],
+"page_title": "大正×対称アリス episode 1",
 "match": [
 [
 0.6363636363636364,
@@ -4080,6 +4354,7 @@
 "titles": [
 "大正×対称アリス episode 2"
 ],
+"page_title": "大正×対称アリス episode 2",
 "match": [
 [
 0.6363636363636364,
@@ -4093,6 +4368,7 @@
 "titles": [
 "大正×対称アリス episode 3"
 ],
+"page_title": "大正×対称アリス episode 3",
 "match": [
 [
 0.6363636363636364,
@@ -4106,6 +4382,7 @@
 "titles": [
 "大正×対称アリス epilogue"
 ],
+"page_title": "大正×対称アリス epilogue",
 "match": [
 [
 0.6363636363636364,
@@ -4119,6 +4396,7 @@
 "titles": [
 "大正×対称アリス HEADS & TAILS"
 ],
+"page_title": "大正×対称アリス HEADS & TAILS",
 "match": [
 [
 1.0,
@@ -4132,6 +4410,7 @@
 "titles": [
 "DIABOLIK LOVERS LUNATIC PARADE"
 ],
+"page_title": "DIABOLIK LOVERS LUNATIC PARADE",
 "match": [
 [
 1.0,
@@ -4145,6 +4424,7 @@
 "titles": [
 "Tlicolity Eyes -twinkle showtime-"
 ],
+"page_title": "Tlicolity Eyes -twinkle showtime-",
 "match": [
 [
 0.6341463414634146,
@@ -4158,6 +4438,7 @@
 "titles": [
 "Tlicolity Eyes Vol.1"
 ],
+"page_title": "Tlicolity Eyes Vol.1",
 "match": []
 },
 {
@@ -4165,6 +4446,7 @@
 "titles": [
 "Tlicolity Eyes Vol.2"
 ],
+"page_title": "Tlicolity Eyes Vol.2",
 "match": []
 },
 {
@@ -4172,6 +4454,7 @@
 "titles": [
 "Tlicolity Eyes Vol.3"
 ],
+"page_title": "Tlicolity Eyes Vol.3",
 "match": []
 },
 {
@@ -4179,6 +4462,7 @@
 "titles": [
 "薄桜鬼 真改 天雲ノ抄"
 ],
+"page_title": "薄桜鬼 真改 天雲ノ抄",
 "match": [
 [
 1.0,
@@ -4192,6 +4476,7 @@
 "titles": [
 "薄桜鬼SSL ～sweet school life～"
 ],
+"page_title": "薄桜鬼SSL ～sweet school life～",
 "match": [
 [
 1.0,
@@ -4205,6 +4490,7 @@
 "titles": [
 "薄桜鬼 真改 遊戯録 隊士達の大宴会 for Nintendo Switch"
 ],
+"page_title": "薄桜鬼 真改 遊戯録 隊士達の大宴会 for Nintendo Switch",
 "match": []
 },
 {
@@ -4212,6 +4498,7 @@
 "titles": [
 "BUSTAFELLOWS SEASON2"
 ],
+"page_title": "BUSTAFELLOWS SEASON2",
 "match": [
 [
 1.0,
@@ -4225,6 +4512,7 @@
 "titles": [
 "華アワセ 蛟編"
 ],
+"page_title": "華アワセ 蛟編",
 "match": [
 [
 0.8,
@@ -4238,6 +4526,7 @@
 "titles": [
 "華アワセ 姫空木編"
 ],
+"page_title": "華アワセ 姫空木編",
 "match": [
 [
 0.6666666666666666,
@@ -4251,6 +4540,7 @@
 "titles": [
 "華アワセ 唐紅/うつつ編"
 ],
+"page_title": "華アワセ 唐紅/うつつ編",
 "match": [
 [
 0.5714285714285714,
@@ -4264,6 +4554,7 @@
 "titles": [
 "Panic Palette～パニック パレット～"
 ],
+"page_title": "Panic Palette～パニック パレット～",
 "match": [
 [
 0.75,
@@ -4277,6 +4568,7 @@
 "titles": [
 "緋色の欠片 ～おもいいろの記憶～"
 ],
+"page_title": "緋色の欠片 ～おもいいろの記憶～",
 "match": [
 [
 0.5555555555555556,
@@ -4300,6 +4592,7 @@
 "titles": [
 "Princess Arthur"
 ],
+"page_title": "Princess Arthur",
 "match": [
 [
 1.0,
@@ -4313,6 +4606,7 @@
 "titles": [
 "明治東亰恋伽 Full Moon"
 ],
+"page_title": "明治東亰恋伽 Full Moon",
 "match": [
 [
 0.6,
@@ -4326,6 +4620,7 @@
 "titles": [
 "闇色の魔珠"
 ],
+"page_title": "闇色の魔珠",
 "match": [
 [
 1.0,

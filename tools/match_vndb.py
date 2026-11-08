@@ -59,13 +59,30 @@ def best(title):
     scored.sort(reverse=True)
     return scored[:3]
 
+pt_path = os.path.join(D, 'page_titles.json')
+page_titles = json.load(open(pt_path, encoding='utf-8')) if os.path.exists(pt_path) else {}
+
+def page_name(t):
+    # "9 R.I.P. sequel 攻略 ナインリップ シークエル | choro" -> "9 R.I.P. sequel"
+    t = re.sub(r'\s*\|\s*choro\s*$', '', t)
+    return re.split(r'\s*(?:全ルート)?\s*攻略', t)[0].strip()
+
 out = []
 for i, e in enumerate(entries):
     top = None
-    for t in e['titles']:
+    pn = page_name(page_titles.get(e['url'], ''))
+    if pn:
+        e = {**e, 'page_title': pn}
+    # the page's own title wins; index link texts are only a fallback
+    for t in ([pn] if pn else []) or e['titles']:
         r = best(t)
         if r and (top is None or r[0][0] > top[0][0]):
             top = r
+    if (not top or top[0][0] < 0.6) and pn:
+        for t in e['titles']:
+            r = best(t)
+            if r and (top is None or r[0][0] > top[0][0]):
+                top = r
     out.append({**e, 'match': top or []})
     m = top[0] if top else None
     print(f"{i+1}/{len(entries)} {e['titles'][0]} -> {m}")

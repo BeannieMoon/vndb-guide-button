@@ -33,6 +33,7 @@ OVERRIDES = {
     'blog-entry-2602.html': ['v22597'], 'tlicolity3-guide': ['v22597'],
     'hakuoki_yugiroku-guide': ['v17291', 'v19756'],
     'hiiro-guide': ['v1629'],
+    'blog-entry-701.html': ['v14908'],                           # Code:Realize 彩虹の花束 (page title is generic)
 }
 LABELS = {'e/izakoi-kai-guide': 'いざ、出陣！恋戦 第二幕 ～甲斐編～'}
 
@@ -43,7 +44,8 @@ for e in matched:
     if vids is None:
         vids = [e['match'][0][1]] if e['match'] else []
     path = e['url'].replace('https://choro-game.com/', '')
-    label = LABELS.get(path) or re.sub(r'\s*for Nintendo Switch$', '', min(e['titles'], key=len))
+    label = LABELS.get(path) or re.sub(r'\s*for Nintendo Switch$', '',
+                                       e.get('page_title') or min(e['titles'], key=len))
     for v in vids:
         lst = M.setdefault(v, [])
         if path not in [p for _, p in lst]:

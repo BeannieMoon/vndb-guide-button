@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         VNDB Guide Button
 // @namespace    vndb-guide-button
-// @version      0.2
-// @description  Adds a Guide row with direct choro-game.com walkthrough links to VNDB visual novel pages
+// @version      0.3
+// @description  Adds a Guide row to VNDB pages: direct choro-game.com walkthrough links plus search links for other otome/BL guide sites
 // @match        https://vndb.org/v*
 // @grant        none
 // @noframes
@@ -20,7 +20,7 @@
   // Paths are relative to https://choro-game.com/ to keep the file small.
   const CHORO = {"v802":[["新装版クローバーの国のアリス ～Wonderful Wonder World～","e/alice-clover-guide"]],
     "v853":[["新装版クリムゾン・エンパイア","e/crimson-empire-guide"]],
-    "v1015":[["金色のコルダ２ ff","e/corda2ff-guide"]],
+    "v1015":[["金色のコルダ2 ff","e/corda2ff-guide"]],
     "v1289":[["いじわるMyMaster","e/ijiwarumymaster-guide"]],
     "v1316":[["新装版魔法使いとご主人様","e/wizard_master-guide"]],
     "v1341":[["ソラユメ","e/sorayume-guide"]],
@@ -58,18 +58,18 @@
     "v6256":[["赤ずきんと迷いの森","e/akazukintomayoi-guide"]],
     "v6459":[["Are you Alice?","e/are-you-alice-guide"]],
     "v6656":[["死神と少女","e/shinigamitoshojo-guide"]],
-    "v6723":[["CLOCK ZERO ～終焉の一秒～ Devote","e/clock_zero-guide"]],
+    "v6723":[["CLOCK ZERO ～終焉の一秒～","e/clock_zero-guide"]],
     "v7203":[["TOKYOヤマノテBOYS for V MAIN DISC","blog-entry-2083.html"]],
     "v7204":[["TOKYOヤマノテBOYS for V MAIN DISC","blog-entry-2083.html"]],
     "v7540":[["Starry☆Sky ～Autumn Stories～","e/starrysky-autumn-guide"]],
     "v7553":[["Starry☆Sky～Winter Stories～","blog-entry-2882.html"]],
-    "v7557":[["BROTHERS CONFLICT Precious Baby","blog-entry-2965.html"]],
+    "v7557":[["BROTHERS CONFLICT　Precious Baby","blog-entry-2965.html"]],
     "v7646":[["誰にでも裏がある-Happy Gift-","blog-entry-2559.html"]],
     "v7675":[["TOKYOヤマノテBOYS for V MAIN DISC","blog-entry-2083.html"]],
     "v7803":[["AMNESIA","blog-entry-2978.html"]],
     "v7833":[["OZMAFIA!! vivace","e/ozmafia-guide"]],
     "v8063":[["神なる君と","e/kaminaru-guide"]],
-    "v8203":[["アルカナ・ファミリア -La storia della Arcana Famiglia- Ancora","blog-entry-1287.html"]],
+    "v8203":[["アルカナ・ファミリア -La storia della Arcana Famiglia-　Ancora","blog-entry-1287.html"]],
     "v8243":[["英国探偵ミステリア The Crown","blog-entry-1378.html"]],
     "v8408":[["逢魔時～怪談ロマンス～","e/ouma-guide"]],
     "v8591":[["AMNESIA LATER×CROWD","blog-entry-2980.html"]],
@@ -82,7 +82,7 @@
     "v10051":[["越えざるは紅い花","e/benibana-guide"]],
     "v10162":[["いっしょにごはん。PORTABLE","e/gohan-guide"]],
     "v10273":[["神々の悪戯 Unite Edition","e/kamiaso-guide"],["神々の悪戯","blog-entry-1512.html"]],
-    "v10419":[["Glass Heart Princess","e/ghp-guide"]],
+    "v10419":[["Glass Heart Princess(グラスハートプリンセス)","e/ghp-guide"]],
     "v10606":[["金色のコルダ3 フルボイス Special","blog-entry-582.html"],["金色のコルダ３ フルボイス Special(VITA)","e/corda3-guide"]],
     "v10632":[["Double Score～Cosmos×Camellia～","e/cosmos-camellia-guide"],["Double Score～Cattleya×Narcissus～","e/cattleya-narcissus-guide"],["Double Score ～Marguerite×Tulip～","blog-entry-1058.html"]],
     "v11108":[["Princess Arthur","blog-entry-1923.html"]],
@@ -92,7 +92,7 @@
     "v11312":[["TOKYOヤマノテBOYS for V FAN DISC","blog-entry-2203.html"]],
     "v11313":[["TOKYOヤマノテBOYS for V FAN DISC","blog-entry-2203.html"]],
     "v11314":[["TOKYOヤマノテBOYS for V FAN DISC","blog-entry-2203.html"]],
-    "v11469":[["月影の鎖 ～錯乱パラノイア～","e/getsuei-guide"]],
+    "v11469":[["月影の鎖　～錯乱パラノイア～","e/getsuei-guide"]],
     "v11472":[["剣が君 for S","e/kengakimi-kouryaku"],["剣が君(剣が君 for V)","blog-entry-113.html"]],
     "v11483":[["ドウセイカレシ vol.1 Butterfly Lip","e/dousei-lip-guide"]],
     "v11500":[["死神稼業～怪談ロマンス～","blog-entry-1391.html"]],
@@ -106,17 +106,17 @@
     "v12436":[["Jewelic Nightmare","e/jewelic-nightmare-guide"]],
     "v12438":[["三国恋戦記～思いでがえし～＋学園恋戦記","e/otomefd-guide"]],
     "v12472":[["SNOW BOUND LAND","e/snow-bound-guide"]],
-    "v12571":[["Glass Heart Princess PLATINUM","e/ghp-fd-guide"]],
+    "v12571":[["Glass Heart Princess PLATINUM(グラスハートプリンセス プラチナム)","e/ghp-fd-guide"]],
     "v12605":[["大正鬼譚","blog-entry-118.html"]],
     "v12714":[["十三支演義 偃月三国伝2","e/jyuza2-guide"],["十三支演義 偃月三国伝1・2","e/jyuzaengi-guide"]],
-    "v12751":[["忍び、恋うつつ","e/koiututu-kouryaku"],["忍び、恋うつつ (2)","e/nin-koi-guide"],["忍び、恋うつつ ― 雪月花恋絵巻 ―","e/nin-koi-setsu-guide"]],
+    "v12751":[["忍び、恋うつつ","e/koiututu-kouryaku"],["忍び、恋うつつ (2)","e/nin-koi-guide"],["忍び、恋うつつ 雪月花恋絵巻","e/nin-koi-setsu-guide"]],
     "v12858":[["死神所業～怪談ロマンス～","e/shinigamishogyo-guide"]],
     "v12865":[["下天の華 夢灯り","e/geten-fd-guide"],["下天の華 with 夢灯り 愛蔵版","e/geten-guide"]],
     "v12928":[["月影の鎖 狂爛モラトリアム","blog-entry-114.html"],["月影の鎖 狂爛モラトリアム (2)","e/getsuei_fd-guide"]],
     "v12940":[["クロノスタシア","e/chronostacia-guide"]],
     "v13039":[["黒雪姫～スノウ・ブラック～","e/kuroyuki-guide"]],
     "v13072":[["金色のコルダ3 AnotherSky feat. 神南","e/corda3-jinnan-guide"],["金色のコルダ３ AnotherSky feat.神南/至誠館/天音学園","e/corda3-another-guide"]],
-    "v13090":[["学園K -Wonderful School Days-","e/gakuen-k-guide"]],
+    "v13090":[["学園K Wonderful School Days V Edition","e/gakuen-k-guide"]],
     "v13100":[["ALICE=ALICE","blog-entry-456.html"]],
     "v13127":[["いざ、出陣！恋戦 第二幕 ～越後編～","e/izakoi-echigo-guide"],["いざ、出陣！恋戦 第二幕 ～甲斐編～","e/izakoi-kai-guide"]],
     "v13238":[["里見八犬伝 八珠之記","e/satomi-hachi-guide"]],
@@ -130,9 +130,9 @@
     "v14534":[["爽海バッカニアーズ！","e/soukai-guide"]],
     "v14649":[["DIABOLIK LOVERS DARK FATE","e/dialover-df-guide"]],
     "v14759":[["あやかしごはん おおもりっ！","e/ayakashigohan-guide"]],
-    "v14787":[["Binary Star","e/binarystar-guide"]],
+    "v14787":[["Binary Star バイナリースター","e/binarystar-guide"]],
     "v14810":[["クローバー図書館の住人たち","e/clover_library-guide"]],
-    "v14908":[["Code:Realize ～創世の姫君～","blog-entry-701.html"]],
+    "v14908":[["Code:Realize","blog-entry-701.html"]],
     "v14917":[["戦場の円舞曲","e/waltz-guide"]],
     "v15023":[["神々の悪戯 InFinite","e/kamiaso-infinite-guide"]],
     "v15104":[["カレイドイヴ","blog-entry-757.html"]],
@@ -151,10 +151,10 @@
     "v16057":[["蒼黒の楔 ～緋色の欠片3～ 明日への扉","blog-entry-2160.html"]],
     "v16098":[["神足町人妖譚 ～迷イ子の章～","e/koutari1-guide"]],
     "v16128":[["KLAP!! ～Kind Love And Punish～","e/klap-guide"]],
-    "v16295":[["SA7 -SILENT ABILITY SEVEN-","blog-entry-1548.html"]],
+    "v16295":[["SA7 SILENT ABILITY SEVEN","blog-entry-1548.html"]],
     "v16416":[["里見八犬伝 村雨丸之記","e/satomi-murasame-guide"]],
     "v16460":[["SWEET CLOWN ～午前三時のオカシな道化師～","e/sweetclown-guide"]],
-    "v16464":[["クローバー図書館の住人たちⅡ","blog-entry-958.html"]],
+    "v16464":[["クローバー図書館の住人たち2","blog-entry-958.html"]],
     "v16467":[["アブナイ恋の捜査室～Eternal Happiness～","e/abukoi-fd-guide"]],
     "v16468":[["Vamwolf Cross†","blog-entry-1082.html"]],
     "v16509":[["源氏恋絵巻","e/genjikoi-guide"]],
@@ -188,7 +188,7 @@
     "v18944":[["剣が君 百夜綴り","blog-entry-1875.html"]],
     "v18945":[["DIABOLIK LOVERS LOST EDEN","e/dialover-lost-guide"]],
     "v19037":[["エフェメラル FANTASY ON DARK","blog-entry-2422.html"]],
-    "v19140":[["逢魔が刻～かくりよの縁","blog-entry-1657.html"]],
+    "v19140":[["逢魔が刻～かくりよの縁～","blog-entry-1657.html"]],
     "v19141":[["クランク・イン","e/crank-in-guide"]],
     "v19366":[["ふるえ、ゆらゆらと 下弦の章","blog-entry-2177.html"]],
     "v19397":[["スチームプリズン","e/steamprison-kouryaku"]],
@@ -198,7 +198,7 @@
     "v19847":[["忍び、恋うつつ ― 甘蜜花絵巻 ―","e/nin-koi-kanmitsu-guide"]],
     "v19849":[["KLAP!! ～Kind Love And Punish～ Fun Party","e/klap-fd-guide"]],
     "v19853":[["真紅の焔 真田忍法帳","blog-entry-2568.html"]],
-    "v20117":[["Un：BIRTHDAY SONG～愛を唄う死神～","blog-entry-2362.html"]],
+    "v20117":[["Un:BIRTHDAY SONG～愛を唄う死神～another record","blog-entry-2362.html"]],
     "v20134":[["ドウセイカレシ vol.2 Butterfly Gloss","e/dousei-gloss-guide"]],
     "v20226":[["喧嘩番長 乙女 ダブルパック","e/kenka-otome-guide"],["喧嘩番長 乙女 ～完全無欠のマイハニー～","e/kenkabancho-otome-fd-guide"]],
     "v20249":[["ハイリゲンシュタットの歌","e/heiligenstadt-guide"]],
@@ -209,14 +209,14 @@
     "v21024":[["ネオ アンジェリーク 天使の涙","e/neoangelique-angel-guide"]],
     "v21270":[["愛は、憎しみによく似ている 憎しみは、愛によく似ている","e/aizou-guide-all"]],
     "v21286":[["鬼と花妻 花盗人は、躑躅か椿か","e/onitohana-guide"]],
-    "v21521":[["Code：Realize ～白銀の奇跡～","e/code-realize-fd2-guide"]],
-    "v21782":[["ピオフィオーレの晩鐘","e/piofiore-guide"]],
-    "v21783":[["サンドリヨンパリカ","e/cendrillon_palika-guide"]],
+    "v21521":[["Code：Realize 白銀の奇跡","e/code-realize-fd2-guide"]],
+    "v21782":[["ピオフィオーレの晩鐘 -ricordo-","e/piofiore-guide"]],
+    "v21783":[["Cendrillon palikA","e/cendrillon_palika-guide"]],
     "v21784":[["天涯ニ舞ウ、粋ナ花","e/tengai-guide"]],
-    "v21785":[["私立ベルばら学園","e/berubara-gakuen-guide"]],
+    "v21785":[["私立ベルばら学園～ベルサイユのばらRe*imagination～","e/berubara-gakuen-guide"]],
     "v21786":[["白と黒のアリス -Twilight line-","e/roroalice-twilight-guide"]],
-    "v21787":[["CharadeManiacs(シャレードマニアクス)","blog-entry-2604.html"]],
-    "v21788":[["片恋いコントラスト ―collection of branch―","blog-entry-2961.html"],["片恋いコントラスト ―way of parting― 第一巻","blog-entry-2777.html"],["片恋いコントラスト way of parting 第二巻","e/contrast2-guide"],["片恋いコントラスト ―way of parting― 第三巻","blog-entry-2785.html"]],
+    "v21787":[["CharadeManiacs（シャレードマニアクス）","blog-entry-2604.html"]],
+    "v21788":[["片恋いコントラスト ―collection of branch―","blog-entry-2961.html"],["片恋いコントラスト ―way of parting― 第一巻","blog-entry-2777.html"],["片恋いコントラスト ―way of parting― 第二巻","e/contrast2-guide"],["片恋いコントラスト ―way of parting― 第三巻","blog-entry-2785.html"]],
     "v21789":[["Collar×Malice Unlimited","e/collar_malice_fd-guide"]],
     "v21792":[["三国恋戦記～思いでがえし～＋学園恋戦記","e/otomefd-guide"]],
     "v21895":[["マジェスティック☆マジョリカル","e/majemajo-guide"]],
@@ -226,8 +226,8 @@
     "v22122":[["軍靴をはいた猫","blog-entry-2698.html"]],
     "v22311":[["神凪ノ杜 五月雨綴り","blog-entry-2964.html"],["神凪ノ杜 妖狐奇譚","blog-entry-2566.html"],["神凪ノ杜 龍神奇譚","blog-entry-2726.html"]],
     "v22597":[["Tlicolity Eyes -twinkle showtime-","e/tlicolity-guide"],["Tlicolity Eyes Vol.1","blog-entry-2571.html"],["Tlicolity Eyes Vol.2","blog-entry-2602.html"],["Tlicolity Eyes Vol.3","e/tlicolity3-guide"]],
-    "v22598":[["蛇香のライラ ～Trap of MUSK～","e/lyla-guide"],["蛇香のライラ ～Allure of MUSK～ 第一夜 ヨーロピアン・ナイト","e/lyla1-guide"],["蛇香のライラ ～Allure of MUSK～ 第二夜 アジアン・ナイト","e/lyla2-guide"],["蛇香のライラ ～Allure of MUSK～ 第三夜 アラビアン・ナイト","e/lyla3-guide"]],
-    "v22986":[["LoverPretend","e/loverpretend"]],
+    "v22598":[["蛇香のライラ ～Trap of MUSK～","e/lyla-guide"],["蛇香のライラ ～Allure of MUSK～　第一夜　ヨーロピアン・ナイト","e/lyla1-guide"],["蛇香のライラ 第二夜 アジアン・ナイト","e/lyla2-guide"],["蛇香のライラ ～Allure of MUSK～　第三夜　アラビアン・ナイト","e/lyla3-guide"]],
+    "v22986":[["LoverPretend（ラバープリテンド）","e/loverpretend"]],
     "v22987":[["ビルシャナ戦姫 ～源平飛花夢想～","e/birushana"]],
     "v24240":[["幻奏喫茶アンシャンテ","blog-entry-2982.html"]],
     "v24241":[["オランピアソワレ","e/olympia-guide"]],
@@ -245,8 +245,8 @@
     "v26704":[["恋の花咲く百花園","e/koihana-guide"]],
     "v28235":[["アンジェリーク ルトゥール","blog-entry-1340.html"]],
     "v28405":[["闇色の魔珠","e/majyu-guide"]],
-    "v28803":[["Paradigm Paradox","e/paradigm-paradox-guide"]],
-    "v29251":[["乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 波乱を呼ぶ海賊","e/hamehura-kaizoku-guide"]],
+    "v28803":[["パラダイム パラドックス (Paradigm Paradox)","e/paradigm-paradox-guide"]],
+    "v29251":[["はめふら 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 波乱を呼ぶ海賊","e/hamehura-kaizoku-guide"]],
     "v29661":[["終遠のヴィルシュ","e/virche-guide"]],
     "v29871":[["BUSTAFELLOWS SEASON2","e/bustafellows2-guide"]],
     "v29906":[["君は雪間に希う","e/kimiyuki-guide"]],
@@ -258,21 +258,21 @@
     "v33894":[["DIG-ROCK -Documentary of Youthful Sounds-","e/dig-rock-guide"]],
     "v34018":[["SympathyKiss","e/sympathykiss-guide"]],
     "v34020":[["テミラーナ国の強運姫と悲運騎士団","e/tsuitsui-guide"]],
-    "v34021":[["新宿羅生門 ―Rashomon of Shinjuku―","e/rashomon-guide"]],
+    "v34021":[["新宿羅生門","e/rashomon-guide"]],
     "v34022":[["キューピット・パラサイト -Sweet & Spicy Darling.-","e/cpfd-guide"]],
     "v34043":[["薄桜鬼 真改 天雲ノ抄","e/hakuoki-shinkai-tenun-guide"]],
     "v38067":[["終遠のヴィルシュ -EpiC:lycoris-","e/virche-fd-guide"]],
-    "v38068":[["9 R.I.P.","e/9rip-guide"],["9 R.I.P. (2)","e/9rips-guide"]],
+    "v38068":[["9 R.I.P.","e/9rip-guide"]],
     "v38124":[["My9Swallows TOPSTARS LEAGUE","e/my9-guide"]],
     "v38742":[["狂気より愛をこめて","e/kyoukiyori-guide"]],
     "v40519":[["泡沫のユークロニア","e/uchronia-guide"]],
     "v42091":[["比翼の禽 －ひよくのとり－","e/hiyokunotori"]],
     "v42433":[["ラディアンテイル ファンファーレ！","e/radiant-fanfare-guide"]],
     "v42435":[["薄桜鬼 真改 万葉ノ抄","e/hakuoki-manyou-guide"]],
-    "v45894":[["DesperaDrops（デスペラドロップス）","e/desperadrops-guide"]],
+    "v45894":[["DesperaDrops","e/desperadrops-guide"]],
     "v47009":[["マツリカの炯-kEi- 天命胤異伝","e/matsurika-guide"]],
     "v47010":[["ミストニアの翅望","e/mistonia-guide"]],
-    "v47011":[["トラブル・マギア ～訳アリ少女は未来を勝ち取るために異国の魔法学校へ留学します～","e/trouble-magia-guide"]],
+    "v47011":[["トラブル・マギア","e/trouble-magia-guide"]],
     "v47012":[["燃えよ！ 乙女道士 ～華遊恋語～","e/otomedoushi-guide"]],
     "v47013":[["OVER REQUIEMZ","e/over_requiemz-guide"]],
     "v47546":[["花笑む彼と & bloom","e/hanaemu-guide"]],
@@ -290,11 +290,12 @@
     "v52265":[["オランピアソワレ Catharsis","e/olympia-fd-guide"]],
     "v52266":[["勿ノ怪契リ","e/mononoke-guide"]],
     "v52275":[["BYAKKO ～四神部隊炎恋記～","e/byakko-guide"]],
+    "v52276":[["9 R.I.P. sequel","e/9rips-guide"]],
     "v52279":[["マツリカの炯-kEi- 天命華燭伝","e/matsurika-fd-guide"]],
     "v52771":[["ハンサムロンダリング -the mystic lover-","e/samudari-guide"]],
     "v53877":[["泡沫のユークロニア -trail-","e/uchronia-fd-guide"]],
     "v54934":[["CRAZY CHA!N -エルピスの鎖-","e/crazy_chain-guide"]],
-    "v59981":[["崩壊世界のナヴィガトーレ","e/houkaisekai-guide-all"]],
+    "v59981":[["崩壊世界のナヴィガトーレ 全エンド","e/houkaisekai-guide-all"]],
     "v60966":[["君に惑い、君に溺れる。","e/kiminimadoi-guide"]]};
 
   // Only on the VN's main page (/v123), not /v123/edit, /v123/hist etc.
@@ -312,16 +313,65 @@
   const altEl = document.querySelector('article h2.alttitle');
   const orig = ((altEl && altEl.textContent) || h1.textContent).trim();
 
-  const link = (text, href, faint) => {
+  // English title from the Titles list (for English-language guide sites).
+  const enRow = [...document.querySelectorAll('.vndetails tr.title')]
+    .find((r) => r.querySelector('abbr.icon-lang-en'));
+  const en = ((enRow && enRow.querySelector('td:last-child span')) || h1).textContent.trim();
+
+  // Fallback guide sites. `site` = Google site-search (JP sites get the original
+  // title + 攻略, EN sites the English title); `url` = direct link (archived sites).
+  // lang uses VNDB's own flag icons (icon-lang-xx).
+  const SOURCES = [
+    ['Otome & BL', [
+      { name: 'Half Adder', lang: 'ja', site: 'half-a.net' },
+      { name: 'Otome no Moto', lang: 'ja', site: 'otomenotomo.tyonmage.com' },
+      { name: '空と風のうた', lang: 'ja', site: 'red.ribbon.to/~mayuki' },
+    ]],
+    ['Otome', [
+      { name: 'choro', lang: 'ja', site: 'choro-game.com' },
+      { name: 'Soregashi', lang: 'ja', site: 'soregashi.work' },
+      { name: 'OtomeGame-Capture', lang: 'ja', site: 'otomegame-capture.com' },
+      { name: 'maistar', lang: 'ja', site: 'maistar.blog.fc2.com' },
+      { name: 'LadyGamer wiki', lang: 'ja', site: 'ladygamer.jp/wiki' },
+      { name: 'pecheotome', lang: 'ja', site: 'pecheotome.web.fc2.com' },
+      { name: 'miyutan (doujin)', lang: 'ja', site: 'miyutan0509.blog.fc2.com' },
+      { name: 'Neoromance info', lang: 'ja', site: 'neoromance.info' },
+      { name: '2DFan', lang: 'zh-Hans', site: '2dfan.com' },
+      { name: 'Otome Kitten', lang: 'en', site: 'otomekitten.com' },
+      { name: 'Peche', lang: 'ja', url: 'https://web.archive.org/web/20140717012233/http://peche.parallel.jp/index.htm' },
+      { name: 'Momokan', lang: 'ja', url: 'https://web.archive.org/web/20251008120316/http://momokan.chu.jp/momokan/a1top.html' },
+      { name: 'La Primavera', lang: 'ja', url: 'https://web.archive.org/web/20200223033612/otome.girly.jp/' },
+    ]],
+    ['BL', [
+      { name: 'BL English', lang: 'en', site: 'blenglish.blog.fc2.com' },
+      { name: 'Chem blog', lang: 'en', site: 'chem-is-amani.blogspot.com' },
+      { name: 'mizukinoko', lang: 'ja', site: 'plaza.rakuten.co.jp/mizukinoko' },
+      { name: 'BL game hatena', lang: 'ja', site: 'blgame.hatenablog.com' },
+      { name: 'Boys Game 攻略の館', lang: 'ja', site: 'kouryakukan.fuma-kotaro.com' },
+      { name: 'Garden House', lang: 'ja', url: 'https://web.archive.org/web/20190303093657/http://www.geocities.jp/aya_promenade/gamekouryaku.htm' },
+    ]],
+  ];
+  const LANG_NAME = { ja: 'Japanese', en: 'English', 'zh-Hans': 'Chinese (simplified)' };
+
+  const google = (q) => 'https://www.google.com/search?q=' + encodeURIComponent(q);
+  const srcHref = (s) => s.url ||
+    google('site:' + s.site + ' "' + (s.lang === 'en' ? en : orig) + '"' + (s.lang === 'en' ? ' walkthrough' : ' 攻略'));
+
+  const link = (text, href, style) => {
     const a = document.createElement('a');
     a.href = href;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
     a.textContent = text;
-    a.style.cssText = faint
-      ? 'font-size:11px;opacity:.6'
-      : 'padding:2px 9px;border:1px solid currentColor;border-radius:4px;font-size:12px;text-decoration:none';
+    if (style) a.style.cssText = style;
     return a;
+  };
+  const BTN = 'padding:2px 9px;border:1px solid currentColor;border-radius:4px;font-size:12px;text-decoration:none';
+  const flag = (lang) => {
+    const ab = document.createElement('abbr');
+    ab.className = 'icon-lang-' + lang;
+    ab.title = LANG_NAME[lang] || lang;
+    return ab;
   };
 
   const bar = document.createElement('div');
@@ -330,12 +380,42 @@
   const guides = CHORO[vid];
   if (guides) {
     for (const [label, path] of guides) {
-      bar.appendChild(link('📖 ' + (guides.length > 1 ? label : 'choro guide'), 'https://choro-game.com/' + path));
+      const a = link('📖 ' + (guides.length > 1 ? label : 'choro guide'), 'https://choro-game.com/' + path, BTN);
+      a.prepend(flag('ja'));
+      bar.appendChild(a);
     }
-  } else {
-    bar.appendChild(link('search choro for this title',
-      'https://www.google.com/search?q=' + encodeURIComponent('site:choro-game.com ' + orig + ' 攻略'), true));
   }
+
+  // Collapsible list of other sites (same look as VNDB's own Titles <details>).
+  const more = document.createElement('details');
+  const sum = document.createElement('summary');
+  sum.textContent = guides ? 'more guide sites' : 'search guide sites';
+  sum.style.cssText = 'cursor:pointer;font-size:12px;opacity:.75';
+  more.appendChild(sum);
+  const box = document.createElement('div');
+  box.style.cssText = 'font-size:12px;line-height:1.7;margin-top:3px';
+  for (const [group, list] of SOURCES) {
+    const line = document.createElement('div');
+    const g = document.createElement('span');
+    g.textContent = group + ': ';
+    g.style.cssText = 'color:inherit;opacity:.7;font-weight:bold';
+    line.appendChild(g);
+    list.forEach((s, i) => {
+      if (i) line.append(' · ');
+      line.append(flag(s.lang));
+      line.appendChild(link(s.name + (s.url ? ' (archive)' : ''), srcHref(s)));
+    });
+    box.appendChild(line);
+  }
+  const gl = document.createElement('div');
+  gl.append(flag('ja'));
+  gl.appendChild(link('Google: "' + orig + '" 攻略', google('"' + orig + '" 攻略')));
+  box.appendChild(gl);
+  more.appendChild(box);
+
+  const wrap = document.createElement('div');
+  wrap.append(bar, more);
+  if (!guides) bar.remove();
 
   const table = document.querySelector('.vndetails > table > tbody') ||
                 document.querySelector('.vndetails table tbody');
@@ -345,13 +425,21 @@
     const k = document.createElement('td');
     k.textContent = 'Guide';
     const v = document.createElement('td');
-    v.appendChild(bar);
+    v.appendChild(wrap);
     tr.append(k, v);
+    // Place under "Relations"; else before "Links"; else after the title rows.
+    const rows = [...table.children];
+    const label = (r) => (r.firstElementChild && r.firstElementChild.textContent.trim()) || '';
+    const rel = rows.find((r) => label(r) === 'Relations');
+    const links = rows.find((r) => label(r) === 'Links' || label(r) === 'Shops');
     const titles = table.querySelector(':scope > tr > td.titles');
-    if (titles) titles.parentElement.after(tr); else table.prepend(tr);
+    if (rel) rel.after(tr);
+    else if (links) links.before(tr);
+    else if (titles) titles.parentElement.after(tr);
+    else table.append(tr);
   } else {
-    bar.id = ROW_ID;
-    bar.style.margin = '6px 0 10px';
-    (altEl || h1).after(bar);
+    wrap.id = ROW_ID;
+    wrap.style.margin = '6px 0 10px';
+    (altEl || h1).after(wrap);
   }
 })();
